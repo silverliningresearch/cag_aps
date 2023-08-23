@@ -1,0 +1,35 @@
+ #inputFlightCodeID {
+    /* position: absolute; */
+    max-width: 100%;
+    width: 30rem;
+} 
+
+#inputPostalCodeID {
+    /* position: relative; */
+    max-width: 100%;
+    width: 30rem;
+}  
+
+#inputcityCodeID {
+    /* position: relative; */
+    max-width: 100%;
+    width: 30rem;
+}  
+
+#inputAirportCodeID {
+    /* position: relative; */
+    max-width: 100%;
+    width: 30rem;
+}  
+
+#input_arrival_airline_CodeID {
+    /* position: relative; */
+    max-width: 100%;
+    width: 30rem;
+}  
+
+#input_arrival_airport_CodeID {
+    /* position: relative; */
+    max-width: 100%;
+    width: 30rem;
+}  
