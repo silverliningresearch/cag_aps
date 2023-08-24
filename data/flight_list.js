@@ -1565,8 +1565,8 @@
     {
         "Date": "01-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -1576,8 +1576,8 @@
     {
         "Date": "01-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -2302,7 +2302,7 @@
     {
         "Date": "01-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -2918,7 +2918,7 @@
     {
         "Date": "01-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -3105,8 +3105,8 @@
     {
         "Date": "01-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -3138,8 +3138,8 @@
     {
         "Date": "01-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -3193,8 +3193,8 @@
     {
         "Date": "01-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -3644,7 +3644,7 @@
     {
         "Date": "01-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -5315,17 +5315,6 @@
     },
     {
         "Date": "02-08-2023",
-        "Time": "2325",
-        "Dest_Airport": "PEK",
-        "Dest_Country": "CN",
-        "DTerm": "T1",
-        "Flight": "CA970",
-        "AirlineCode": "CA",
-        "Airline": "CA - Air China",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
         "Time": "0900",
         "Dest_Airport": "PEK",
         "Dest_Country": "CN",
@@ -6558,17 +6547,6 @@
     },
     {
         "Date": "02-08-2023",
-        "Time": "2215",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
-        "DTerm": "T1",
-        "Flight": "TR808",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
         "Time": "0755",
         "Dest_Airport": "KIX",
         "Dest_Country": "JP",
@@ -6592,8 +6570,8 @@
     {
         "Date": "02-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -6603,8 +6581,8 @@
     {
         "Date": "02-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -7020,17 +6998,6 @@
     },
     {
         "Date": "02-08-2023",
-        "Time": "0800",
-        "Dest_Airport": "PEN",
-        "Dest_Country": "MY",
-        "DTerm": "T2",
-        "Flight": "SQ132",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
         "Time": "1000",
         "Dest_Airport": "PEN",
         "Dest_Country": "MY",
@@ -7229,17 +7196,6 @@
     },
     {
         "Date": "02-08-2023",
-        "Time": "1250",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T2",
-        "Flight": "SQ710",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
         "Time": "1600",
         "Dest_Airport": "BKK",
         "Dest_Country": "TH",
@@ -7318,7 +7274,7 @@
     {
         "Date": "02-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -7339,33 +7295,11 @@
     },
     {
         "Date": "02-08-2023",
-        "Time": "1135",
-        "Dest_Airport": "MNL",
-        "Dest_Country": "PH",
-        "DTerm": "T2",
-        "Flight": "SQ912",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
         "Time": "1330",
         "Dest_Airport": "MNL",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ916",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
-        "Time": "1925",
-        "Dest_Airport": "MNL",
-        "Dest_Country": "PH",
-        "DTerm": "T2",
-        "Flight": "SQ918",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -7482,17 +7416,6 @@
     },
     {
         "Date": "02-08-2023",
-        "Time": "0915",
-        "Dest_Airport": "CGK",
-        "Dest_Country": "ID",
-        "DTerm": "T2",
-        "Flight": "SQ956",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
         "Time": "1230",
         "Dest_Airport": "CGK",
         "Dest_Country": "ID",
@@ -7509,17 +7432,6 @@
         "Dest_Country": "ID",
         "DTerm": "T2",
         "Flight": "SQ960",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "02-08-2023",
-        "Time": "1625",
-        "Dest_Airport": "CGK",
-        "Dest_Country": "ID",
-        "DTerm": "T2",
-        "Flight": "SQ962",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -8044,8 +7956,8 @@
     {
         "Date": "02-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -8077,8 +7989,8 @@
     {
         "Date": "02-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -8473,8 +8385,8 @@
     {
         "Date": "02-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -8572,7 +8484,7 @@
     {
         "Date": "02-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -11509,8 +11421,8 @@
     {
         "Date": "03-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -11520,8 +11432,8 @@
     {
         "Date": "03-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -11531,8 +11443,8 @@
     {
         "Date": "03-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -12224,7 +12136,7 @@
     {
         "Date": "03-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -12785,8 +12697,8 @@
     {
         "Date": "03-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -12840,7 +12752,7 @@
     {
         "Date": "03-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -13016,8 +12928,8 @@
     {
         "Date": "03-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -13049,8 +12961,8 @@
     {
         "Date": "03-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -13445,8 +13357,8 @@
     {
         "Date": "03-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -13544,7 +13456,7 @@
     {
         "Date": "03-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -15424,17 +15336,6 @@
     },
     {
         "Date": "04-08-2023",
-        "Time": "1105",
-        "Dest_Airport": "HND",
-        "Dest_Country": "JP",
-        "DTerm": "T1",
-        "Flight": "NH842",
-        "AirlineCode": "NH",
-        "Airline": "NH - All Nippon Airways",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
         "Time": "2210",
         "Dest_Airport": "HND",
         "Dest_Country": "JP",
@@ -16062,17 +15963,6 @@
     },
     {
         "Date": "04-08-2023",
-        "Time": "1325",
-        "Dest_Airport": "SGN",
-        "Dest_Country": "VN",
-        "DTerm": "T1",
-        "Flight": "TR306",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
         "Time": "0620",
         "Dest_Airport": "CEB",
         "Dest_Country": "PH",
@@ -16128,28 +16018,6 @@
     },
     {
         "Date": "04-08-2023",
-        "Time": "1435",
-        "Dest_Airport": "PEN",
-        "Dest_Country": "MY",
-        "DTerm": "T1",
-        "Flight": "TR424",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
-        "Time": "0850",
-        "Dest_Airport": "PEN",
-        "Dest_Country": "MY",
-        "DTerm": "T1",
-        "Flight": "TR426",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
         "Time": "1915",
         "Dest_Airport": "PEN",
         "Dest_Country": "MY",
@@ -16188,28 +16056,6 @@
         "Dest_Country": "MY",
         "DTerm": "T1",
         "Flight": "TR454",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
-        "Time": "1930",
-        "Dest_Airport": "KUL",
-        "Dest_Country": "MY",
-        "DTerm": "T1",
-        "Flight": "TR466",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
-        "Time": "1700",
-        "Dest_Airport": "KUL",
-        "Dest_Country": "MY",
-        "DTerm": "T1",
-        "Flight": "TR468",
         "AirlineCode": "TR",
         "Airline": "TR - Scoot",
         "Show": ""
@@ -16425,28 +16271,6 @@
     },
     {
         "Date": "04-08-2023",
-        "Time": "1820",
-        "Dest_Airport": "HKT",
-        "Dest_Country": "TH",
-        "DTerm": "T1",
-        "Flight": "TR652",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
-        "Time": "0750",
-        "Dest_Airport": "HKT",
-        "Dest_Country": "TH",
-        "DTerm": "T1",
-        "Flight": "TR658",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "04-08-2023",
         "Time": "0915",
         "Dest_Airport": "BKK",
         "Dest_Country": "TH",
@@ -16525,8 +16349,8 @@
     {
         "Date": "04-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -16536,8 +16360,8 @@
     {
         "Date": "04-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -17262,7 +17086,7 @@
     {
         "Date": "04-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -18032,8 +17856,8 @@
     {
         "Date": "04-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -18065,8 +17889,8 @@
     {
         "Date": "04-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -18549,7 +18373,7 @@
     {
         "Date": "04-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -21365,8 +21189,8 @@
     {
         "Date": "05-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -21376,8 +21200,8 @@
     {
         "Date": "05-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -22080,7 +21904,7 @@
     {
         "Date": "05-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -22806,8 +22630,8 @@
     {
         "Date": "05-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -22839,8 +22663,8 @@
     {
         "Date": "05-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -22905,8 +22729,8 @@
     {
         "Date": "05-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -23246,8 +23070,8 @@
     {
         "Date": "05-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -23334,7 +23158,7 @@
     {
         "Date": "05-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -26128,8 +25952,8 @@
     {
         "Date": "06-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -26139,8 +25963,8 @@
     {
         "Date": "06-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -26832,7 +26656,7 @@
     {
         "Date": "06-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -27448,7 +27272,7 @@
     {
         "Date": "06-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -27613,8 +27437,8 @@
     {
         "Date": "06-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -27646,8 +27470,8 @@
     {
         "Date": "06-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -27701,8 +27525,8 @@
     {
         "Date": "06-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -28042,8 +27866,8 @@
     {
         "Date": "06-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -28141,7 +27965,7 @@
     {
         "Date": "06-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -30979,8 +30803,8 @@
     {
         "Date": "07-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -30990,8 +30814,8 @@
     {
         "Date": "07-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -31001,8 +30825,8 @@
     {
         "Date": "07-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -31716,7 +31540,7 @@
     {
         "Date": "07-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -32266,8 +32090,8 @@
     {
         "Date": "07-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -32475,8 +32299,8 @@
     {
         "Date": "07-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -32508,8 +32332,8 @@
     {
         "Date": "07-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -32882,8 +32706,8 @@
     {
         "Date": "07-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -32970,7 +32794,7 @@
     {
         "Date": "07-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -34410,17 +34234,6 @@
     },
     {
         "Date": "08-08-2023",
-        "Time": "1940",
-        "Dest_Airport": "DEL",
-        "Dest_Country": "IN",
-        "DTerm": "T1",
-        "Flight": "6E1014",
-        "AirlineCode": "6E",
-        "Airline": "6E - IndiGo",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
         "Time": "0415",
         "Dest_Airport": "CCU",
         "Dest_Country": "IN",
@@ -34520,33 +34333,11 @@
     },
     {
         "Date": "08-08-2023",
-        "Time": "1430",
-        "Dest_Airport": "CKG",
-        "Dest_Country": "CN",
-        "DTerm": "T1",
-        "Flight": "CA450",
-        "AirlineCode": "CA",
-        "Airline": "CA - Air China",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
         "Time": "1730",
         "Dest_Airport": "PVG",
         "Dest_Country": "CN",
         "DTerm": "T1",
         "Flight": "CA808",
-        "AirlineCode": "CA",
-        "Airline": "CA - Air China",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
-        "Time": "2325",
-        "Dest_Airport": "PEK",
-        "Dest_Country": "CN",
-        "DTerm": "T1",
-        "Flight": "CA970",
         "AirlineCode": "CA",
         "Airline": "CA - Air China",
         "Show": ""
@@ -34982,28 +34773,6 @@
     },
     {
         "Date": "08-08-2023",
-        "Time": "2050",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T1",
-        "Flight": "TG410",
-        "AirlineCode": "TG",
-        "Airline": "TG - Thai Airways",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
-        "Time": "1555",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T1",
-        "Flight": "TG414",
-        "AirlineCode": "TG",
-        "Airline": "TG - Thai Airways",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
         "Time": "2330",
         "Dest_Airport": "IST",
         "Dest_Country": "TR",
@@ -35290,17 +35059,6 @@
     },
     {
         "Date": "08-08-2023",
-        "Time": "0820",
-        "Dest_Airport": "SUB",
-        "Dest_Country": "ID",
-        "DTerm": "T1",
-        "Flight": "TR262",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
         "Time": "1725",
         "Dest_Airport": "SUB",
         "Dest_Country": "ID",
@@ -35339,17 +35097,6 @@
         "Dest_Country": "ID",
         "DTerm": "T1",
         "Flight": "TR278",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "08-08-2023",
-        "Time": "0715",
-        "Dest_Airport": "DPS",
-        "Dest_Country": "ID",
-        "DTerm": "T1",
-        "Flight": "TR280",
         "AirlineCode": "TR",
         "Airline": "TR - Scoot",
         "Show": ""
@@ -35918,8 +35665,8 @@
     {
         "Date": "08-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -35929,8 +35676,8 @@
     {
         "Date": "08-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -36666,7 +36413,7 @@
     {
         "Date": "08-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -37282,7 +37029,7 @@
     {
         "Date": "08-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -37469,8 +37216,8 @@
     {
         "Date": "08-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -37502,8 +37249,8 @@
     {
         "Date": "08-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -37557,8 +37304,8 @@
     {
         "Date": "08-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -38008,7 +37755,7 @@
     {
         "Date": "08-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -39987,17 +39734,6 @@
     },
     {
         "Date": "09-08-2023",
-        "Time": "0030",
-        "Dest_Airport": "MNL",
-        "Dest_Country": "PH",
-        "DTerm": "T1",
-        "Flight": "PR510",
-        "AirlineCode": "PR",
-        "Airline": "PR - Philippine Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "09-08-2023",
         "Time": "1950",
         "Dest_Airport": "MNL",
         "Dest_Country": "PH",
@@ -40956,8 +40692,8 @@
     {
         "Date": "09-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -40967,8 +40703,8 @@
     {
         "Date": "09-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -41682,7 +41418,7 @@
     {
         "Date": "09-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -42408,8 +42144,8 @@
     {
         "Date": "09-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -42441,8 +42177,8 @@
     {
         "Date": "09-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -42837,8 +42573,8 @@
     {
         "Date": "09-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -42936,7 +42672,7 @@
     {
         "Date": "09-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -44574,17 +44310,6 @@
     },
     {
         "Date": "10-08-2023",
-        "Time": "2325",
-        "Dest_Airport": "PEK",
-        "Dest_Country": "CN",
-        "DTerm": "T1",
-        "Flight": "CA970",
-        "AirlineCode": "CA",
-        "Airline": "CA - Air China",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
         "Time": "0900",
         "Dest_Airport": "PEK",
         "Dest_Country": "CN",
@@ -44601,17 +44326,6 @@
         "Dest_Country": "CN",
         "DTerm": "T1",
         "Flight": "CZ352",
-        "AirlineCode": "CZ",
-        "Airline": "CZ - China Southern Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
-        "Time": "1330",
-        "Dest_Airport": "CAN",
-        "Dest_Country": "CN",
-        "DTerm": "T1",
-        "Flight": "CZ354",
         "AirlineCode": "CZ",
         "Airline": "CZ - China Southern Airlines",
         "Show": ""
@@ -44717,17 +44431,6 @@
     },
     {
         "Date": "10-08-2023",
-        "Time": "1650",
-        "Dest_Airport": "DPS",
-        "Dest_Country": "ID",
-        "DTerm": "T1",
-        "Flight": "KL835",
-        "AirlineCode": "KL",
-        "Airline": "KL - KLM Royal Dutch Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
         "Time": "0040",
         "Dest_Airport": "AMS",
         "Dest_Country": "NL",
@@ -44790,17 +44493,6 @@
         "Flight": "MF886",
         "AirlineCode": "MF",
         "Airline": "MF - Xiamen Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
-        "Time": "1105",
-        "Dest_Airport": "HND",
-        "Dest_Country": "JP",
-        "DTerm": "T1",
-        "Flight": "NH842",
-        "AirlineCode": "NH",
-        "Airline": "NH - All Nippon Airways",
         "Show": ""
     },
     {
@@ -44999,17 +44691,6 @@
         "Flight": "QR947",
         "AirlineCode": "QR",
         "Airline": "QR - Qatar Airways",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
-        "Time": "1225",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T1",
-        "Flight": "TG404",
-        "AirlineCode": "TG",
-        "Airline": "TG - Thai Airways",
         "Show": ""
     },
     {
@@ -45267,17 +44948,6 @@
     },
     {
         "Date": "10-08-2023",
-        "Time": "0820",
-        "Dest_Airport": "SUB",
-        "Dest_Country": "ID",
-        "DTerm": "T1",
-        "Flight": "TR262",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
         "Time": "1725",
         "Dest_Airport": "SUB",
         "Dest_Country": "ID",
@@ -45311,17 +44981,6 @@
     },
     {
         "Date": "10-08-2023",
-        "Time": "0710",
-        "Dest_Airport": "DPS",
-        "Dest_Country": "ID",
-        "DTerm": "T1",
-        "Flight": "TR280",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
         "Time": "1045",
         "Dest_Airport": "DPS",
         "Dest_Country": "ID",
@@ -45338,17 +44997,6 @@
         "Dest_Country": "ID",
         "DTerm": "T1",
         "Flight": "TR286",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
-        "Time": "1530",
-        "Dest_Airport": "SGN",
-        "Dest_Country": "VN",
-        "DTerm": "T1",
-        "Flight": "TR302",
         "AirlineCode": "TR",
         "Airline": "TR - Scoot",
         "Show": ""
@@ -45740,17 +45388,6 @@
     },
     {
         "Date": "10-08-2023",
-        "Time": "1755",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T1",
-        "Flight": "TR616",
-        "AirlineCode": "TR",
-        "Airline": "TR - Scoot",
-        "Show": ""
-    },
-    {
-        "Date": "10-08-2023",
         "Time": "0820",
         "Dest_Airport": "BKK",
         "Dest_Country": "TH",
@@ -45895,8 +45532,8 @@
     {
         "Date": "10-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -45906,8 +45543,8 @@
     {
         "Date": "10-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -45917,8 +45554,8 @@
     {
         "Date": "10-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -46610,7 +46247,7 @@
     {
         "Date": "10-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -47171,8 +46808,8 @@
     {
         "Date": "10-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -47226,7 +46863,7 @@
     {
         "Date": "10-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -47402,8 +47039,8 @@
     {
         "Date": "10-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -47435,8 +47072,8 @@
     {
         "Date": "10-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -47831,8 +47468,8 @@
     {
         "Date": "10-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -47930,7 +47567,7 @@
     {
         "Date": "10-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -49887,17 +49524,6 @@
     },
     {
         "Date": "11-08-2023",
-        "Time": "0030",
-        "Dest_Airport": "MNL",
-        "Dest_Country": "PH",
-        "DTerm": "T1",
-        "Flight": "PR510",
-        "AirlineCode": "PR",
-        "Airline": "PR - Philippine Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "11-08-2023",
         "Time": "1950",
         "Dest_Airport": "MNL",
         "Dest_Country": "PH",
@@ -50900,8 +50526,8 @@
     {
         "Date": "11-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -50911,8 +50537,8 @@
     {
         "Date": "11-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -51637,7 +51263,7 @@
     {
         "Date": "11-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -52407,8 +52033,8 @@
     {
         "Date": "11-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -52440,8 +52066,8 @@
     {
         "Date": "11-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -52924,7 +52550,7 @@
     {
         "Date": "11-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -55740,8 +55366,8 @@
     {
         "Date": "12-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -55751,8 +55377,8 @@
     {
         "Date": "12-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -55959,17 +55585,6 @@
     },
     {
         "Date": "12-08-2023",
-        "Time": "2310",
-        "Dest_Airport": "ZRH",
-        "Dest_Country": "CH",
-        "DTerm": "T2",
-        "Flight": "LX177",
-        "AirlineCode": "LX",
-        "Airline": "LX - Swiss International Air Lines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
         "Time": "0640",
         "Dest_Airport": "KUL",
         "Dest_Country": "MY",
@@ -56124,17 +55739,6 @@
     },
     {
         "Date": "12-08-2023",
-        "Time": "1235",
-        "Dest_Airport": "KUL",
-        "Dest_Country": "MY",
-        "DTerm": "T2",
-        "Flight": "SQ114",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
         "Time": "1515",
         "Dest_Airport": "KUL",
         "Dest_Country": "MY",
@@ -56267,17 +55871,6 @@
     },
     {
         "Date": "12-08-2023",
-        "Time": "1400",
-        "Dest_Airport": "DAD",
-        "Dest_Country": "VN",
-        "DTerm": "T2",
-        "Flight": "SQ174",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
         "Time": "0945",
         "Dest_Airport": "SGN",
         "Dest_Country": "VN",
@@ -56316,17 +55909,6 @@
         "Dest_Country": "VN",
         "DTerm": "T2",
         "Flight": "SQ194",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
-        "Time": "2035",
-        "Dest_Airport": "DAC",
-        "Dest_Country": "BD",
-        "DTerm": "T2",
-        "Flight": "SQ446",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -56388,17 +55970,6 @@
     },
     {
         "Date": "12-08-2023",
-        "Time": "1730",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T2",
-        "Flight": "SQ714",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
         "Time": "0810",
         "Dest_Airport": "HKT",
         "Dest_Country": "TH",
@@ -56432,17 +56003,6 @@
     },
     {
         "Date": "12-08-2023",
-        "Time": "1830",
-        "Dest_Airport": "HKT",
-        "Dest_Country": "TH",
-        "DTerm": "T2",
-        "Flight": "SQ740",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
         "Time": "0755",
         "Dest_Airport": "RGN",
         "Dest_Country": "MM",
@@ -56455,7 +56015,7 @@
     {
         "Date": "12-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -56652,17 +56212,6 @@
     },
     {
         "Date": "12-08-2023",
-        "Time": "1625",
-        "Dest_Airport": "CGK",
-        "Dest_Country": "ID",
-        "DTerm": "T2",
-        "Flight": "SQ962",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
         "Time": "1720",
         "Dest_Airport": "CGK",
         "Dest_Country": "ID",
@@ -56679,17 +56228,6 @@
         "Dest_Country": "ID",
         "DTerm": "T2",
         "Flight": "SQ966",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "12-08-2023",
-        "Time": "2155",
-        "Dest_Airport": "CGK",
-        "Dest_Country": "ID",
-        "DTerm": "T2",
-        "Flight": "SQ968",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -57181,8 +56719,8 @@
     {
         "Date": "12-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -57214,8 +56752,8 @@
     {
         "Date": "12-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -57280,8 +56818,8 @@
     {
         "Date": "12-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -57621,8 +57159,8 @@
     {
         "Date": "12-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -57709,7 +57247,7 @@
     {
         "Date": "12-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -60514,8 +60052,8 @@
     {
         "Date": "13-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -60525,8 +60063,8 @@
     {
         "Date": "13-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -61218,7 +60756,7 @@
     {
         "Date": "13-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -61845,7 +61383,7 @@
     {
         "Date": "13-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -61999,8 +61537,8 @@
     {
         "Date": "13-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -62032,8 +61570,8 @@
     {
         "Date": "13-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -62087,8 +61625,8 @@
     {
         "Date": "13-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -62428,8 +61966,8 @@
     {
         "Date": "13-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -62527,7 +62065,7 @@
     {
         "Date": "13-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -65376,8 +64914,8 @@
     {
         "Date": "14-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -65387,8 +64925,8 @@
     {
         "Date": "14-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -65398,8 +64936,8 @@
     {
         "Date": "14-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -66113,7 +65651,7 @@
     {
         "Date": "14-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -66530,17 +66068,6 @@
     },
     {
         "Date": "14-08-2023",
-        "Time": "1740",
-        "Dest_Airport": "CGK",
-        "Dest_Country": "ID",
-        "DTerm": "T3",
-        "Flight": "GA835",
-        "AirlineCode": "GA",
-        "Airline": "GA - Garuda Indonesia",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
         "Time": "1915",
         "Dest_Airport": "CGK",
         "Dest_Country": "ID",
@@ -66663,8 +66190,8 @@
     {
         "Date": "14-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -66860,20 +66387,9 @@
     },
     {
         "Date": "14-08-2023",
-        "Time": "2240",
-        "Dest_Airport": "DMK",
-        "Dest_Country": "TH",
-        "DTerm": "T3",
-        "Flight": "SL105",
-        "AirlineCode": "SL",
-        "Airline": "SL - Thai Lion Air",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -66905,8 +66421,8 @@
     {
         "Date": "14-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -67069,17 +66585,6 @@
     },
     {
         "Date": "14-08-2023",
-        "Time": "2130",
-        "Dest_Airport": "BNE",
-        "Dest_Country": "AU",
-        "DTerm": "T3",
-        "Flight": "SQ235",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
         "Time": "0025",
         "Dest_Airport": "MEL",
         "Dest_Country": "AU",
@@ -67190,17 +66695,6 @@
     },
     {
         "Date": "14-08-2023",
-        "Time": "1235",
-        "Dest_Airport": "LHR",
-        "Dest_Country": "GB",
-        "DTerm": "T3",
-        "Flight": "SQ318",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
         "Time": "2330",
         "Dest_Airport": "LHR",
         "Dest_Country": "GB",
@@ -67223,33 +66717,11 @@
     },
     {
         "Date": "14-08-2023",
-        "Time": "1055",
-        "Dest_Airport": "FRA",
-        "Dest_Country": "DE",
-        "DTerm": "T3",
-        "Flight": "SQ326",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
         "Time": "0030",
         "Dest_Airport": "MUC",
         "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ328",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
-        "Time": "1355",
-        "Dest_Airport": "CDG",
-        "Dest_Country": "FR",
-        "DTerm": "T3",
-        "Flight": "SQ332",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -67279,8 +66751,8 @@
     {
         "Date": "14-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -67294,17 +66766,6 @@
         "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "SQ402",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
-        "Time": "1650",
-        "Dest_Airport": "DEL",
-        "Dest_Country": "IN",
-        "DTerm": "T3",
-        "Flight": "SQ406",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -67367,7 +66828,7 @@
     {
         "Date": "14-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -67509,17 +66970,6 @@
     },
     {
         "Date": "14-08-2023",
-        "Time": "1440",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
-        "DTerm": "T3",
-        "Flight": "SQ606",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
         "Time": "0010",
         "Dest_Airport": "ICN",
         "Dest_Country": "KR",
@@ -67635,17 +67085,6 @@
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "SQ826",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "14-08-2023",
-        "Time": "0930",
-        "Dest_Airport": "PVG",
-        "Dest_Country": "CN",
-        "DTerm": "T3",
-        "Flight": "SQ830",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -70315,8 +69754,8 @@
     {
         "Date": "15-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -70326,8 +69765,8 @@
     {
         "Date": "15-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -71063,7 +70502,7 @@
     {
         "Date": "15-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -71679,7 +71118,7 @@
     {
         "Date": "15-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -71866,8 +71305,8 @@
     {
         "Date": "15-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -71899,8 +71338,8 @@
     {
         "Date": "15-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -71954,8 +71393,8 @@
     {
         "Date": "15-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -72079,17 +71518,6 @@
         "Dest_Country": "AU",
         "DTerm": "T3",
         "Flight": "SQ235",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "15-08-2023",
-        "Time": "0025",
-        "Dest_Airport": "MEL",
-        "Dest_Country": "AU",
-        "DTerm": "T3",
-        "Flight": "SQ237",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -72405,7 +71833,7 @@
     {
         "Date": "15-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -72596,17 +72024,6 @@
         "Dest_Country": "KR",
         "DTerm": "T3",
         "Flight": "SQ616",
-        "AirlineCode": "SQ",
-        "Airline": "SQ - Singapore Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "15-08-2023",
-        "Time": "0125",
-        "Dest_Airport": "KIX",
-        "Dest_Country": "JP",
-        "DTerm": "T3",
-        "Flight": "SQ618",
         "AirlineCode": "SQ",
         "Airline": "SQ - Singapore Airlines",
         "Show": ""
@@ -75353,8 +74770,8 @@
     {
         "Date": "16-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -75364,8 +74781,8 @@
     {
         "Date": "16-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -76079,7 +75496,7 @@
     {
         "Date": "16-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -76805,8 +76222,8 @@
     {
         "Date": "16-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -76838,8 +76255,8 @@
     {
         "Date": "16-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -77234,8 +76651,8 @@
     {
         "Date": "16-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -77333,7 +76750,7 @@
     {
         "Date": "16-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -77871,17 +77288,6 @@
     },
     {
         "Date": "16-08-2023",
-        "Time": "1255",
-        "Dest_Airport": "BKK",
-        "Dest_Country": "TH",
-        "DTerm": "T4",
-        "Flight": "3K515",
-        "AirlineCode": "3K",
-        "Airline": "3K - Jetstar Asia",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
         "Time": "1640",
         "Dest_Airport": "HKT",
         "Dest_Country": "TH",
@@ -78256,17 +77662,6 @@
     },
     {
         "Date": "16-08-2023",
-        "Time": "2140",
-        "Dest_Airport": "PEN",
-        "Dest_Country": "MY",
-        "DTerm": "T4",
-        "Flight": "AK1730",
-        "AirlineCode": "AK",
-        "Airline": "AK - AirAsia Berhad",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
         "Time": "1520",
         "Dest_Airport": "KCH",
         "Dest_Country": "MY",
@@ -78327,28 +77722,6 @@
         "Dest_Country": "HK",
         "DTerm": "T4",
         "Flight": "CX714",
-        "AirlineCode": "CX",
-        "Airline": "CX - Cathay Pacific Airways",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
-        "Time": "1800",
-        "Dest_Airport": "HKG",
-        "Dest_Country": "HK",
-        "DTerm": "T4",
-        "Flight": "CX716",
-        "AirlineCode": "CX",
-        "Airline": "CX - Cathay Pacific Airways",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
-        "Time": "1610",
-        "Dest_Airport": "HKG",
-        "Dest_Country": "HK",
-        "DTerm": "T4",
-        "Flight": "CX2636",
         "AirlineCode": "CX",
         "Airline": "CX - Cathay Pacific Airways",
         "Show": ""
@@ -78465,17 +77838,6 @@
     },
     {
         "Date": "16-08-2023",
-        "Time": "2235",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
-        "DTerm": "T4",
-        "Flight": "KE644",
-        "AirlineCode": "KE",
-        "Airline": "KE - Korean Air",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
         "Time": "0110",
         "Dest_Airport": "ICN",
         "Dest_Country": "KR",
@@ -78542,17 +77904,6 @@
     },
     {
         "Date": "16-08-2023",
-        "Time": "1200",
-        "Dest_Airport": "CGK",
-        "Dest_Country": "ID",
-        "DTerm": "T4",
-        "Flight": "QZ267",
-        "AirlineCode": "QZ",
-        "Airline": "QZ - Indonesia AirAsia",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
         "Time": "2200",
         "Dest_Airport": "CGK",
         "Dest_Country": "ID",
@@ -78591,17 +77942,6 @@
         "Dest_Country": "ID",
         "DTerm": "T4",
         "Flight": "QZ505",
-        "AirlineCode": "QZ",
-        "Airline": "QZ - Indonesia AirAsia",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
-        "Time": "1710",
-        "Dest_Airport": "DPS",
-        "Dest_Country": "ID",
-        "DTerm": "T4",
-        "Flight": "QZ507",
         "AirlineCode": "QZ",
         "Airline": "QZ - Indonesia AirAsia",
         "Show": ""
@@ -78712,17 +78052,6 @@
         "Dest_Country": "VN",
         "DTerm": "T4",
         "Flight": "VN654",
-        "AirlineCode": "VN",
-        "Airline": "VN - Vietnam Airlines",
-        "Show": ""
-    },
-    {
-        "Date": "16-08-2023",
-        "Time": "2045",
-        "Dest_Airport": "SGN",
-        "Dest_Country": "VN",
-        "DTerm": "T4",
-        "Flight": "VN656",
         "AirlineCode": "VN",
         "Airline": "VN - Vietnam Airlines",
         "Show": ""
@@ -80292,8 +79621,8 @@
     {
         "Date": "17-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -80303,8 +79632,8 @@
     {
         "Date": "17-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -80314,8 +79643,8 @@
     {
         "Date": "17-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -81007,7 +80336,7 @@
     {
         "Date": "17-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -81568,8 +80897,8 @@
     {
         "Date": "17-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -81623,7 +80952,7 @@
     {
         "Date": "17-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -81799,8 +81128,8 @@
     {
         "Date": "17-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -81832,8 +81161,8 @@
     {
         "Date": "17-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -82228,8 +81557,8 @@
     {
         "Date": "17-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -82327,7 +81656,7 @@
     {
         "Date": "17-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -85286,8 +84615,8 @@
     {
         "Date": "18-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -85297,8 +84626,8 @@
     {
         "Date": "18-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -86023,7 +85352,7 @@
     {
         "Date": "18-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -86793,8 +86122,8 @@
     {
         "Date": "18-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -86826,8 +86155,8 @@
     {
         "Date": "18-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -87310,7 +86639,7 @@
     {
         "Date": "18-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -90104,8 +89433,8 @@
     {
         "Date": "19-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -90115,8 +89444,8 @@
     {
         "Date": "19-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -90819,7 +90148,7 @@
     {
         "Date": "19-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -91545,8 +90874,8 @@
     {
         "Date": "19-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -91578,8 +90907,8 @@
     {
         "Date": "19-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -91644,8 +90973,8 @@
     {
         "Date": "19-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -91985,8 +91314,8 @@
     {
         "Date": "19-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -92073,7 +91402,7 @@
     {
         "Date": "19-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -94878,8 +94207,8 @@
     {
         "Date": "20-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -94889,8 +94218,8 @@
     {
         "Date": "20-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -95582,7 +94911,7 @@
     {
         "Date": "20-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -96209,7 +95538,7 @@
     {
         "Date": "20-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -96363,8 +95692,8 @@
     {
         "Date": "20-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -96396,8 +95725,8 @@
     {
         "Date": "20-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -96451,8 +95780,8 @@
     {
         "Date": "20-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -96792,8 +96121,8 @@
     {
         "Date": "20-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -96891,7 +96220,7 @@
     {
         "Date": "20-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -99729,8 +99058,8 @@
     {
         "Date": "21-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -99740,8 +99069,8 @@
     {
         "Date": "21-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -99751,8 +99080,8 @@
     {
         "Date": "21-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -100466,7 +99795,7 @@
     {
         "Date": "21-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -101016,8 +100345,8 @@
     {
         "Date": "21-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -101225,8 +100554,8 @@
     {
         "Date": "21-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -101258,8 +100587,8 @@
     {
         "Date": "21-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -101632,8 +100961,8 @@
     {
         "Date": "21-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -101720,7 +101049,7 @@
     {
         "Date": "21-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -104657,8 +103986,8 @@
     {
         "Date": "22-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -104668,8 +103997,8 @@
     {
         "Date": "22-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -105405,7 +104734,7 @@
     {
         "Date": "22-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -106021,7 +105350,7 @@
     {
         "Date": "22-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -106208,8 +105537,8 @@
     {
         "Date": "22-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -106241,8 +105570,8 @@
     {
         "Date": "22-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -106296,8 +105625,8 @@
     {
         "Date": "22-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -106747,7 +106076,7 @@
     {
         "Date": "22-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -109684,8 +109013,8 @@
     {
         "Date": "23-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -109695,8 +109024,8 @@
     {
         "Date": "23-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -110410,7 +109739,7 @@
     {
         "Date": "23-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -111136,8 +110465,8 @@
     {
         "Date": "23-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -111169,8 +110498,8 @@
     {
         "Date": "23-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -111565,8 +110894,8 @@
     {
         "Date": "23-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -111664,7 +110993,7 @@
     {
         "Date": "23-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -114623,8 +113952,8 @@
     {
         "Date": "24-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -114634,8 +113963,8 @@
     {
         "Date": "24-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -114645,8 +113974,8 @@
     {
         "Date": "24-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -115338,7 +114667,7 @@
     {
         "Date": "24-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -115899,8 +115228,8 @@
     {
         "Date": "24-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -115954,7 +115283,7 @@
     {
         "Date": "24-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -116130,8 +115459,8 @@
     {
         "Date": "24-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -116163,8 +115492,8 @@
     {
         "Date": "24-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -116559,8 +115888,8 @@
     {
         "Date": "24-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -116658,7 +115987,7 @@
     {
         "Date": "24-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -119650,8 +118979,8 @@
     {
         "Date": "25-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -119661,8 +118990,8 @@
     {
         "Date": "25-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -120387,7 +119716,7 @@
     {
         "Date": "25-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -121157,8 +120486,8 @@
     {
         "Date": "25-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -121190,8 +120519,8 @@
     {
         "Date": "25-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -121674,7 +121003,7 @@
     {
         "Date": "25-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -124468,8 +123797,8 @@
     {
         "Date": "26-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -124479,8 +123808,8 @@
     {
         "Date": "26-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -125183,7 +124512,7 @@
     {
         "Date": "26-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -125920,8 +125249,8 @@
     {
         "Date": "26-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -125953,8 +125282,8 @@
     {
         "Date": "26-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -126019,8 +125348,8 @@
     {
         "Date": "26-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -126360,8 +125689,8 @@
     {
         "Date": "26-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -126448,7 +125777,7 @@
     {
         "Date": "26-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -129264,8 +128593,8 @@
     {
         "Date": "27-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -129275,8 +128604,8 @@
     {
         "Date": "27-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -129968,7 +129297,7 @@
     {
         "Date": "27-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -130595,7 +129924,7 @@
     {
         "Date": "27-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -130760,8 +130089,8 @@
     {
         "Date": "27-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -130793,8 +130122,8 @@
     {
         "Date": "27-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -130848,8 +130177,8 @@
     {
         "Date": "27-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -131189,8 +130518,8 @@
     {
         "Date": "27-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -131288,7 +130617,7 @@
     {
         "Date": "27-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -134137,8 +133466,8 @@
     {
         "Date": "28-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -134148,8 +133477,8 @@
     {
         "Date": "28-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -134159,8 +133488,8 @@
     {
         "Date": "28-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -134863,7 +134192,7 @@
     {
         "Date": "28-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -135424,8 +134753,8 @@
     {
         "Date": "28-08-2023",
         "Time": "1230",
-        "Dest_Airport": "PBH",
-        "Dest_Country": "BT",
+        "Dest_Airport": "GAU",
+        "Dest_Country": "IN",
         "DTerm": "T3",
         "Flight": "KB541",
         "AirlineCode": "KB",
@@ -135633,8 +134962,8 @@
     {
         "Date": "28-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -135666,8 +134995,8 @@
     {
         "Date": "28-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -136040,8 +135369,8 @@
     {
         "Date": "28-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -136128,7 +135457,7 @@
     {
         "Date": "28-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -139065,8 +138394,8 @@
     {
         "Date": "29-08-2023",
         "Time": "1130",
-        "Dest_Airport": "ICN",
-        "Dest_Country": "KR",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR896",
         "AirlineCode": "TR",
@@ -139076,8 +138405,8 @@
     {
         "Date": "29-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -139813,7 +139142,7 @@
     {
         "Date": "29-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -140429,7 +139758,7 @@
     {
         "Date": "29-08-2023",
         "Time": "0255",
-        "Dest_Airport": "YNT",
+        "Dest_Airport": "CSX",
         "Dest_Country": "CN",
         "DTerm": "T3",
         "Flight": "MU2046",
@@ -140616,8 +139945,8 @@
     {
         "Date": "29-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -140649,8 +139978,8 @@
     {
         "Date": "29-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -140704,8 +140033,8 @@
     {
         "Date": "29-08-2023",
         "Time": "0225",
-        "Dest_Airport": "IAH",
-        "Dest_Country": "US",
+        "Dest_Airport": "MAN",
+        "Dest_Country": "GB",
         "DTerm": "T3",
         "Flight": "SQ052",
         "AirlineCode": "SQ",
@@ -141155,7 +140484,7 @@
     {
         "Date": "29-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",
@@ -144103,8 +143432,8 @@
     {
         "Date": "30-08-2023",
         "Time": "0700",
-        "Dest_Airport": "CTS",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR892",
         "AirlineCode": "TR",
@@ -144114,8 +143443,8 @@
     {
         "Date": "30-08-2023",
         "Time": "0100",
-        "Dest_Airport": "NRT",
-        "Dest_Country": "JP",
+        "Dest_Airport": "TPE",
+        "Dest_Country": "TW",
         "DTerm": "T1",
         "Flight": "TR898",
         "AirlineCode": "TR",
@@ -144818,7 +144147,7 @@
     {
         "Date": "30-08-2023",
         "Time": "1230",
-        "Dest_Airport": "CEB",
+        "Dest_Airport": "DVO",
         "Dest_Country": "PH",
         "DTerm": "T2",
         "Flight": "SQ906",
@@ -145566,8 +144895,8 @@
     {
         "Date": "30-08-2023",
         "Time": "0925",
-        "Dest_Airport": "LAX",
-        "Dest_Country": "US",
+        "Dest_Airport": "NRT",
+        "Dest_Country": "JP",
         "DTerm": "T3",
         "Flight": "SQ012",
         "AirlineCode": "SQ",
@@ -145599,8 +144928,8 @@
     {
         "Date": "30-08-2023",
         "Time": "2355",
-        "Dest_Airport": "JFK",
-        "Dest_Country": "US",
+        "Dest_Airport": "FRA",
+        "Dest_Country": "DE",
         "DTerm": "T3",
         "Flight": "SQ026",
         "AirlineCode": "SQ",
@@ -145995,8 +145324,8 @@
     {
         "Date": "30-08-2023",
         "Time": "2330",
-        "Dest_Airport": "BCN",
-        "Dest_Country": "ES",
+        "Dest_Airport": "MXP",
+        "Dest_Country": "IT",
         "DTerm": "T3",
         "Flight": "SQ378",
         "AirlineCode": "SQ",
@@ -146094,7 +145423,7 @@
     {
         "Date": "30-08-2023",
         "Time": "0130",
-        "Dest_Airport": "CPT",
+        "Dest_Airport": "JNB",
         "Dest_Country": "ZA",
         "DTerm": "T3",
         "Flight": "SQ478",

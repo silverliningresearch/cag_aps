@@ -12,11 +12,38 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T1_6E_BLR",
+        "DTerm": "T1",
+        "Dest": "BLR",
+        "AirlineCode": "6E",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_6E_BOM",
+        "DTerm": "T1",
+        "Dest": "BOM",
+        "AirlineCode": "6E",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_6E_CCU",
+        "DTerm": "T1",
+        "Dest": "CCU",
+        "AirlineCode": "6E",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T1_6E_DEL",
         "DTerm": "T1",
         "Dest": "DEL",
         "AirlineCode": "6E",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -25,7 +52,7 @@
         "DTerm": "T1",
         "Dest": "MAA",
         "AirlineCode": "6E",
-        "Quota": 3.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -34,7 +61,7 @@
         "DTerm": "T1",
         "Dest": "TRZ",
         "AirlineCode": "6E",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -43,7 +70,7 @@
         "DTerm": "T1",
         "Dest": "RGN",
         "AirlineCode": "8M",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -52,7 +79,7 @@
         "DTerm": "T1",
         "Dest": "CDG",
         "AirlineCode": "AF",
-        "Quota": 2.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -61,7 +88,16 @@
         "DTerm": "T1",
         "Dest": "HEL",
         "AirlineCode": "AY",
-        "Quota": 5.0
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_BA_LHR",
+        "DTerm": "T1",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -70,7 +106,7 @@
         "DTerm": "T1",
         "Dest": "SYD",
         "AirlineCode": "BA",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -88,7 +124,7 @@
         "DTerm": "T1",
         "Dest": "PEK",
         "AirlineCode": "CA",
-        "Quota": 4.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -97,7 +133,7 @@
         "DTerm": "T1",
         "Dest": "PVG",
         "AirlineCode": "CA",
-        "Quota": 5.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -115,7 +151,7 @@
         "DTerm": "T1",
         "Dest": "CAN",
         "AirlineCode": "CZ",
-        "Quota": 8.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -124,7 +160,7 @@
         "DTerm": "T1",
         "Dest": "DXB",
         "AirlineCode": "EK",
-        "Quota": 13.0
+        "Quota": 15.0
     },
     {
         "Year": "2023",
@@ -133,7 +169,7 @@
         "DTerm": "T1",
         "Dest": "MEL",
         "AirlineCode": "EK",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -142,7 +178,7 @@
         "DTerm": "T1",
         "Dest": "NAN",
         "AirlineCode": "FJ",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -151,7 +187,7 @@
         "DTerm": "T1",
         "Dest": "HND",
         "AirlineCode": "JL",
-        "Quota": 3.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -160,7 +196,7 @@
         "DTerm": "T1",
         "Dest": "NRT",
         "AirlineCode": "JL",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -169,6 +205,15 @@
         "DTerm": "T1",
         "Dest": "TPE",
         "AirlineCode": "JX",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_KL_AMS",
+        "DTerm": "T1",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
         "Quota": 4.0
     },
     {
@@ -178,7 +223,7 @@
         "DTerm": "T1",
         "Dest": "CGK",
         "AirlineCode": "KL",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -187,7 +232,7 @@
         "DTerm": "T1",
         "Dest": "DPS",
         "AirlineCode": "KL",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -196,7 +241,7 @@
         "DTerm": "T1",
         "Dest": "PNH",
         "AirlineCode": "KR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -223,7 +268,7 @@
         "DTerm": "T1",
         "Dest": "XMN",
         "AirlineCode": "MF",
-        "Quota": 7.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -232,7 +277,16 @@
         "DTerm": "T1",
         "Dest": "HND",
         "AirlineCode": "NH",
-        "Quota": 4.0
+        "Quota": 5.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_NH_NRT",
+        "DTerm": "T1",
+        "Dest": "NRT",
+        "AirlineCode": "NH",
+        "Quota": 0.0
     },
     {
         "Year": "2023",
@@ -241,7 +295,7 @@
         "DTerm": "T1",
         "Dest": "NRT",
         "AirlineCode": "NQ",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -277,7 +331,7 @@
         "DTerm": "T1",
         "Dest": "MNL",
         "AirlineCode": "PR",
-        "Quota": 11.0
+        "Quota": 10.0
     },
     {
         "Year": "2023",
@@ -295,7 +349,16 @@
         "DTerm": "T1",
         "Dest": "BNE",
         "AirlineCode": "QF",
-        "Quota": 4.0
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_QF_LHR",
+        "DTerm": "T1",
+        "Dest": "LHR",
+        "AirlineCode": "QF",
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -313,7 +376,7 @@
         "DTerm": "T1",
         "Dest": "PER",
         "AirlineCode": "QF",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -322,7 +385,7 @@
         "DTerm": "T1",
         "Dest": "SYD",
         "AirlineCode": "QF",
-        "Quota": 12.0
+        "Quota": 9.0
     },
     {
         "Year": "2023",
@@ -331,7 +394,7 @@
         "DTerm": "T1",
         "Dest": "DOH",
         "AirlineCode": "QR",
-        "Quota": 9.0
+        "Quota": 10.0
     },
     {
         "Year": "2023",
@@ -340,7 +403,7 @@
         "DTerm": "T1",
         "Dest": "BKK",
         "AirlineCode": "TG",
-        "Quota": 15.0
+        "Quota": 11.0
     },
     {
         "Year": "2023",
@@ -349,7 +412,16 @@
         "DTerm": "T1",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "Quota": 4.0
+        "Quota": 7.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_ATH",
+        "DTerm": "T1",
+        "Dest": "ATH",
+        "AirlineCode": "TR",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -363,11 +435,20 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T1_TR_BER",
+        "DTerm": "T1",
+        "Dest": "BER",
+        "AirlineCode": "TR",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T1_TR_BKI",
         "DTerm": "T1",
         "Dest": "BKI",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -376,7 +457,7 @@
         "DTerm": "T1",
         "Dest": "BKK",
         "AirlineCode": "TR",
-        "Quota": 26.0
+        "Quota": 19.0
     },
     {
         "Year": "2023",
@@ -390,11 +471,20 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T1_TR_CAN",
+        "DTerm": "T1",
+        "Dest": "CAN",
+        "AirlineCode": "TR",
+        "Quota": 6.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T1_TR_CEB",
         "DTerm": "T1",
         "Dest": "CEB",
         "AirlineCode": "TR",
-        "Quota": 7.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -403,7 +493,16 @@
         "DTerm": "T1",
         "Dest": "CGK",
         "AirlineCode": "TR",
-        "Quota": 6.0
+        "Quota": 5.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_CGO",
+        "DTerm": "T1",
+        "Dest": "CGO",
+        "AirlineCode": "TR",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -412,7 +511,16 @@
         "DTerm": "T1",
         "Dest": "CJB",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_CJU",
+        "DTerm": "T1",
+        "Dest": "CJU",
+        "AirlineCode": "TR",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -421,7 +529,16 @@
         "DTerm": "T1",
         "Dest": "CNX",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_CRK",
+        "DTerm": "T1",
+        "Dest": "CRK",
+        "AirlineCode": "TR",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -430,16 +547,7 @@
         "DTerm": "T1",
         "Dest": "CSX",
         "AirlineCode": "TR",
-        "Quota": 2.0
-    },
-    {
-        "Year": "2023",
-        "Month": "08",
-        "quota_id": "T1_TR_CTS",
-        "DTerm": "T1",
-        "Dest": "CTS",
-        "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -448,7 +556,7 @@
         "DTerm": "T1",
         "Dest": "DPS",
         "AirlineCode": "TR",
-        "Quota": 14.0
+        "Quota": 11.0
     },
     {
         "Year": "2023",
@@ -466,7 +574,7 @@
         "DTerm": "T1",
         "Dest": "FOC",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -475,7 +583,7 @@
         "DTerm": "T1",
         "Dest": "HAK",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -493,7 +601,7 @@
         "DTerm": "T1",
         "Dest": "HDY",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -502,7 +610,7 @@
         "DTerm": "T1",
         "Dest": "HGH",
         "AirlineCode": "TR",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -511,7 +619,7 @@
         "DTerm": "T1",
         "Dest": "HKG",
         "AirlineCode": "TR",
-        "Quota": 9.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -520,7 +628,16 @@
         "DTerm": "T1",
         "Dest": "HKT",
         "AirlineCode": "TR",
-        "Quota": 7.0
+        "Quota": 5.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_HYD",
+        "DTerm": "T1",
+        "Dest": "HYD",
+        "AirlineCode": "TR",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -529,7 +646,7 @@
         "DTerm": "T1",
         "Dest": "ICN",
         "AirlineCode": "TR",
-        "Quota": 4.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -538,7 +655,7 @@
         "DTerm": "T1",
         "Dest": "IPH",
         "AirlineCode": "TR",
-        "Quota": 7.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -556,7 +673,7 @@
         "DTerm": "T1",
         "Dest": "KBV",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -565,7 +682,7 @@
         "DTerm": "T1",
         "Dest": "KCH",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -583,7 +700,7 @@
         "DTerm": "T1",
         "Dest": "KIX",
         "AirlineCode": "TR",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -601,7 +718,7 @@
         "DTerm": "T1",
         "Dest": "KUL",
         "AirlineCode": "TR",
-        "Quota": 14.0
+        "Quota": 11.0
     },
     {
         "Year": "2023",
@@ -610,7 +727,7 @@
         "DTerm": "T1",
         "Dest": "LGK",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -628,7 +745,7 @@
         "DTerm": "T1",
         "Dest": "MDC",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -637,7 +754,7 @@
         "DTerm": "T1",
         "Dest": "MEL",
         "AirlineCode": "TR",
-        "Quota": 4.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -646,7 +763,7 @@
         "DTerm": "T1",
         "Dest": "MFM",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -655,7 +772,7 @@
         "DTerm": "T1",
         "Dest": "MNL",
         "AirlineCode": "TR",
-        "Quota": 4.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -682,7 +799,7 @@
         "DTerm": "T1",
         "Dest": "NKG",
         "AirlineCode": "TR",
-        "Quota": 6.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -696,11 +813,20 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T1_TR_NRT",
+        "DTerm": "T1",
+        "Dest": "NRT",
+        "AirlineCode": "TR",
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T1_TR_PEN",
         "DTerm": "T1",
         "Dest": "PEN",
         "AirlineCode": "TR",
-        "Quota": 10.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -709,7 +835,7 @@
         "DTerm": "T1",
         "Dest": "PER",
         "AirlineCode": "TR",
-        "Quota": 9.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -718,7 +844,7 @@
         "DTerm": "T1",
         "Dest": "PKU",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -727,7 +853,16 @@
         "DTerm": "T1",
         "Dest": "SGN",
         "AirlineCode": "TR",
-        "Quota": 8.0
+        "Quota": 6.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_SHE",
+        "DTerm": "T1",
+        "Dest": "SHE",
+        "AirlineCode": "TR",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -736,7 +871,7 @@
         "DTerm": "T1",
         "Dest": "SUB",
         "AirlineCode": "TR",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -745,7 +880,7 @@
         "DTerm": "T1",
         "Dest": "SYD",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -754,7 +889,25 @@
         "DTerm": "T1",
         "Dest": "SZX",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_TAO",
+        "DTerm": "T1",
+        "Dest": "TAO",
+        "AirlineCode": "TR",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_TNA",
+        "DTerm": "T1",
+        "Dest": "TNA",
+        "AirlineCode": "TR",
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -763,7 +916,7 @@
         "DTerm": "T1",
         "Dest": "TPE",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 11.0
     },
     {
         "Year": "2023",
@@ -772,7 +925,7 @@
         "DTerm": "T1",
         "Dest": "TRV",
         "AirlineCode": "TR",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -780,6 +933,15 @@
         "quota_id": "T1_TR_TRZ",
         "DTerm": "T1",
         "Dest": "TRZ",
+        "AirlineCode": "TR",
+        "Quota": 5.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_TR_TSN",
+        "DTerm": "T1",
+        "Dest": "TSN",
         "AirlineCode": "TR",
         "Quota": 3.0
     },
@@ -808,7 +970,7 @@
         "DTerm": "T1",
         "Dest": "VTZ",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -826,7 +988,7 @@
         "DTerm": "T1",
         "Dest": "XIY",
         "AirlineCode": "TR",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -835,6 +997,15 @@
         "DTerm": "T1",
         "Dest": "YIA",
         "AirlineCode": "TR",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T1_ZG_NRT",
+        "DTerm": "T1",
+        "Dest": "NRT",
+        "AirlineCode": "ZG",
         "Quota": 3.0
     },
     {
@@ -871,7 +1042,7 @@
         "DTerm": "T2",
         "Dest": "DEL",
         "AirlineCode": "AI",
-        "Quota": 3.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -889,6 +1060,15 @@
         "DTerm": "T2",
         "Dest": "BWN",
         "AirlineCode": "BI",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T2_ET_ADD",
+        "DTerm": "T2",
+        "Dest": "ADD",
+        "AirlineCode": "ET",
         "Quota": 2.0
     },
     {
@@ -930,6 +1110,42 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T2_IX_TRZ",
+        "DTerm": "T2",
+        "Dest": "TRZ",
+        "AirlineCode": "IX",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T2_LH_FRA",
+        "DTerm": "T2",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T2_LH_MUC",
+        "DTerm": "T2",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T2_LX_ZRH",
+        "DTerm": "T2",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T2_MH_KCH",
         "DTerm": "T2",
         "Dest": "KCH",
@@ -943,7 +1159,7 @@
         "DTerm": "T2",
         "Dest": "KUL",
         "AirlineCode": "MH",
-        "Quota": 17.0
+        "Quota": 15.0
     },
     {
         "Year": "2023",
@@ -970,7 +1186,7 @@
         "DTerm": "T2",
         "Dest": "BKK",
         "AirlineCode": "SQ",
-        "Quota": 19.0
+        "Quota": 17.0
     },
     {
         "Year": "2023",
@@ -984,20 +1200,20 @@
     {
         "Year": "2023",
         "Month": "08",
-        "quota_id": "T2_SQ_CEB",
-        "DTerm": "T2",
-        "Dest": "CEB",
-        "AirlineCode": "SQ",
-        "Quota": 2.0
-    },
-    {
-        "Year": "2023",
-        "Month": "08",
         "quota_id": "T2_SQ_CGK",
         "DTerm": "T2",
         "Dest": "CGK",
         "AirlineCode": "SQ",
-        "Quota": 28.0
+        "Quota": 26.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T2_SQ_CMB",
+        "DTerm": "T2",
+        "Dest": "CMB",
+        "AirlineCode": "SQ",
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1024,7 +1240,16 @@
         "DTerm": "T2",
         "Dest": "DPS",
         "AirlineCode": "SQ",
-        "Quota": 19.0
+        "Quota": 18.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T2_SQ_DVO",
+        "DTerm": "T2",
+        "Dest": "DVO",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1042,7 +1267,7 @@
         "DTerm": "T2",
         "Dest": "HKT",
         "AirlineCode": "SQ",
-        "Quota": 8.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1051,7 +1276,7 @@
         "DTerm": "T2",
         "Dest": "KNO",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1060,7 +1285,7 @@
         "DTerm": "T2",
         "Dest": "KUL",
         "AirlineCode": "SQ",
-        "Quota": 15.0
+        "Quota": 13.0
     },
     {
         "Year": "2023",
@@ -1069,7 +1294,7 @@
         "DTerm": "T2",
         "Dest": "MNL",
         "AirlineCode": "SQ",
-        "Quota": 15.0
+        "Quota": 14.0
     },
     {
         "Year": "2023",
@@ -1096,7 +1321,7 @@
         "DTerm": "T2",
         "Dest": "REP",
         "AirlineCode": "SQ",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1114,7 +1339,7 @@
         "DTerm": "T2",
         "Dest": "SGN",
         "AirlineCode": "SQ",
-        "Quota": 10.0
+        "Quota": 9.0
     },
     {
         "Year": "2023",
@@ -1132,7 +1357,7 @@
         "DTerm": "T2",
         "Dest": "SFO",
         "AirlineCode": "UA",
-        "Quota": 6.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -1150,7 +1375,7 @@
         "DTerm": "T3",
         "Dest": "DAC",
         "AirlineCode": "BG",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1159,7 +1384,16 @@
         "DTerm": "T3",
         "Dest": "TPE",
         "AirlineCode": "BR",
-        "Quota": 12.0
+        "Quota": 8.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_BS_DAC",
+        "DTerm": "T3",
+        "Dest": "DAC",
+        "AirlineCode": "BS",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1168,7 +1402,7 @@
         "DTerm": "T3",
         "Dest": "TPE",
         "AirlineCode": "CI",
-        "Quota": 5.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -1177,7 +1411,7 @@
         "DTerm": "T3",
         "Dest": "AUH",
         "AirlineCode": "EY",
-        "Quota": 6.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1186,7 +1420,7 @@
         "DTerm": "T3",
         "Dest": "CGK",
         "AirlineCode": "GA",
-        "Quota": 19.0
+        "Quota": 13.0
     },
     {
         "Year": "2023",
@@ -1195,7 +1429,7 @@
         "DTerm": "T3",
         "Dest": "DPS",
         "AirlineCode": "GA",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1204,7 +1438,7 @@
         "DTerm": "T3",
         "Dest": "SUB",
         "AirlineCode": "GA",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1213,7 +1447,7 @@
         "DTerm": "T3",
         "Dest": "BAH",
         "AirlineCode": "GF",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1222,7 +1456,7 @@
         "DTerm": "T3",
         "Dest": "BKK",
         "AirlineCode": "GF",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1231,7 +1465,7 @@
         "DTerm": "T3",
         "Dest": "CGK",
         "AirlineCode": "ID",
-        "Quota": 11.0
+        "Quota": 9.0
     },
     {
         "Year": "2023",
@@ -1240,7 +1474,7 @@
         "DTerm": "T3",
         "Dest": "DPS",
         "AirlineCode": "ID",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1249,7 +1483,7 @@
         "DTerm": "T3",
         "Dest": "KNO",
         "AirlineCode": "ID",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1258,7 +1492,7 @@
         "DTerm": "T3",
         "Dest": "SUB",
         "AirlineCode": "ID",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1267,7 +1501,7 @@
         "DTerm": "T3",
         "Dest": "UPG",
         "AirlineCode": "ID",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1276,15 +1510,42 @@
         "DTerm": "T3",
         "Dest": "YIA",
         "AirlineCode": "ID",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
         "Month": "08",
-        "quota_id": "T3_KB_PBH",
+        "quota_id": "T3_KB_DIL",
         "DTerm": "T3",
-        "Dest": "PBH",
+        "Dest": "DIL",
         "AirlineCode": "KB",
+        "Quota": 0.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_KB_GAU",
+        "DTerm": "T3",
+        "Dest": "GAU",
+        "AirlineCode": "KB",
+        "Quota": 0.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_MU_CSX",
+        "DTerm": "T3",
+        "Dest": "CSX",
+        "AirlineCode": "MU",
+        "Quota": 1.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_MU_HFE",
+        "DTerm": "T3",
+        "Dest": "HFE",
+        "AirlineCode": "MU",
         "Quota": 1.0
     },
     {
@@ -1294,7 +1555,16 @@
         "DTerm": "T3",
         "Dest": "KMG",
         "AirlineCode": "MU",
-        "Quota": 2.0
+        "Quota": 1.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_MU_PKX",
+        "DTerm": "T3",
+        "Dest": "PKX",
+        "AirlineCode": "MU",
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1303,7 +1573,7 @@
         "DTerm": "T3",
         "Dest": "PVG",
         "AirlineCode": "MU",
-        "Quota": 10.0
+        "Quota": 11.0
     },
     {
         "Year": "2023",
@@ -1321,7 +1591,7 @@
         "DTerm": "T3",
         "Dest": "AKL",
         "AirlineCode": "NZ",
-        "Quota": 11.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1330,7 +1600,16 @@
         "DTerm": "T3",
         "Dest": "KUL",
         "AirlineCode": "OD",
-        "Quota": 13.0
+        "Quota": 8.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_OZ_ICN",
+        "DTerm": "T3",
+        "Dest": "ICN",
+        "AirlineCode": "OZ",
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -1339,7 +1618,7 @@
         "DTerm": "T3",
         "Dest": "CGK",
         "AirlineCode": "QG",
-        "Quota": 6.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1348,7 +1627,7 @@
         "DTerm": "T3",
         "Dest": "NOU",
         "AirlineCode": "SB",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1357,6 +1636,24 @@
         "DTerm": "T3",
         "Dest": "DMK",
         "AirlineCode": "SL",
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_ADL",
+        "DTerm": "T3",
+        "Dest": "ADL",
+        "AirlineCode": "SQ",
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_AKL",
+        "DTerm": "T3",
+        "Dest": "AKL",
+        "AirlineCode": "SQ",
         "Quota": 3.0
     },
     {
@@ -1366,7 +1663,16 @@
         "DTerm": "T3",
         "Dest": "AMD",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_AMS",
+        "DTerm": "T3",
+        "Dest": "AMS",
+        "AirlineCode": "SQ",
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1375,7 +1681,7 @@
         "DTerm": "T3",
         "Dest": "BLR",
         "AirlineCode": "SQ",
-        "Quota": 8.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1393,7 +1699,7 @@
         "DTerm": "T3",
         "Dest": "BOM",
         "AirlineCode": "SQ",
-        "Quota": 15.0
+        "Quota": 10.0
     },
     {
         "Year": "2023",
@@ -1402,7 +1708,7 @@
         "DTerm": "T3",
         "Dest": "CAN",
         "AirlineCode": "SQ",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1411,7 +1717,7 @@
         "DTerm": "T3",
         "Dest": "CCU",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1420,7 +1726,7 @@
         "DTerm": "T3",
         "Dest": "CDG",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -1429,7 +1735,7 @@
         "DTerm": "T3",
         "Dest": "CHC",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1438,7 +1744,7 @@
         "DTerm": "T3",
         "Dest": "CNS",
         "AirlineCode": "SQ",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1452,11 +1758,20 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T3_SQ_CPH",
+        "DTerm": "T3",
+        "Dest": "CPH",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T3_SQ_DEL",
         "DTerm": "T3",
         "Dest": "DEL",
         "AirlineCode": "SQ",
-        "Quota": 8.0
+        "Quota": 9.0
     },
     {
         "Year": "2023",
@@ -1465,7 +1780,7 @@
         "DTerm": "T3",
         "Dest": "DRW",
         "AirlineCode": "SQ",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1474,7 +1789,25 @@
         "DTerm": "T3",
         "Dest": "DXB",
         "AirlineCode": "SQ",
-        "Quota": 5.0
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_EWR",
+        "DTerm": "T3",
+        "Dest": "EWR",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_FCO",
+        "DTerm": "T3",
+        "Dest": "FCO",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1483,7 +1816,16 @@
         "DTerm": "T3",
         "Dest": "FRA",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 6.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_FUK",
+        "DTerm": "T3",
+        "Dest": "FUK",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1492,7 +1834,7 @@
         "DTerm": "T3",
         "Dest": "HKG",
         "AirlineCode": "SQ",
-        "Quota": 22.0
+        "Quota": 15.0
     },
     {
         "Year": "2023",
@@ -1501,7 +1843,7 @@
         "DTerm": "T3",
         "Dest": "HND",
         "AirlineCode": "SQ",
-        "Quota": 5.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1510,7 +1852,7 @@
         "DTerm": "T3",
         "Dest": "HYD",
         "AirlineCode": "SQ",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1519,7 +1861,16 @@
         "DTerm": "T3",
         "Dest": "ICN",
         "AirlineCode": "SQ",
-        "Quota": 11.0
+        "Quota": 15.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_IST",
+        "DTerm": "T3",
+        "Dest": "IST",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1527,6 +1878,15 @@
         "quota_id": "T3_SQ_JFK",
         "DTerm": "T3",
         "Dest": "JFK",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_JNB",
+        "DTerm": "T3",
+        "Dest": "JNB",
         "AirlineCode": "SQ",
         "Quota": 3.0
     },
@@ -1537,7 +1897,7 @@
         "DTerm": "T3",
         "Dest": "KIX",
         "AirlineCode": "SQ",
-        "Quota": 6.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -1546,7 +1906,7 @@
         "DTerm": "T3",
         "Dest": "KTM",
         "AirlineCode": "SQ",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1555,7 +1915,7 @@
         "DTerm": "T3",
         "Dest": "LAX",
         "AirlineCode": "SQ",
-        "Quota": 11.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1564,7 +1924,7 @@
         "DTerm": "T3",
         "Dest": "LHR",
         "AirlineCode": "SQ",
-        "Quota": 13.0
+        "Quota": 17.0
     },
     {
         "Year": "2023",
@@ -1573,7 +1933,16 @@
         "DTerm": "T3",
         "Dest": "MAA",
         "AirlineCode": "SQ",
-        "Quota": 7.0
+        "Quota": 8.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_MAN",
+        "DTerm": "T3",
+        "Dest": "MAN",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1582,7 +1951,7 @@
         "DTerm": "T3",
         "Dest": "MEL",
         "AirlineCode": "SQ",
-        "Quota": 9.0
+        "Quota": 15.0
     },
     {
         "Year": "2023",
@@ -1591,7 +1960,43 @@
         "DTerm": "T3",
         "Dest": "MLE",
         "AirlineCode": "SQ",
-        "Quota": 8.0
+        "Quota": 5.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_MUC",
+        "DTerm": "T3",
+        "Dest": "MUC",
+        "AirlineCode": "SQ",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_MXP",
+        "DTerm": "T3",
+        "Dest": "MXP",
+        "AirlineCode": "SQ",
+        "Quota": 3.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_NGO",
+        "DTerm": "T3",
+        "Dest": "NGO",
+        "AirlineCode": "SQ",
+        "Quota": 2.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_NRT",
+        "DTerm": "T3",
+        "Dest": "NRT",
+        "AirlineCode": "SQ",
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1600,7 +2005,7 @@
         "DTerm": "T3",
         "Dest": "PEK",
         "AirlineCode": "SQ",
-        "Quota": 11.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1610,6 +2015,15 @@
         "Dest": "PER",
         "AirlineCode": "SQ",
         "Quota": 12.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_PUS",
+        "DTerm": "T3",
+        "Dest": "PUS",
+        "AirlineCode": "SQ",
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1627,7 +2041,7 @@
         "DTerm": "T3",
         "Dest": "SEA",
         "AirlineCode": "SQ",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1636,7 +2050,7 @@
         "DTerm": "T3",
         "Dest": "SFO",
         "AirlineCode": "SQ",
-        "Quota": 7.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -1654,7 +2068,7 @@
         "DTerm": "T3",
         "Dest": "TFU",
         "AirlineCode": "SQ",
-        "Quota": 1.0
+        "Quota": 0.0
     },
     {
         "Year": "2023",
@@ -1663,7 +2077,7 @@
         "DTerm": "T3",
         "Dest": "TPE",
         "AirlineCode": "SQ",
-        "Quota": 12.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -1672,7 +2086,16 @@
         "DTerm": "T3",
         "Dest": "YVR",
         "AirlineCode": "SQ",
-        "Quota": 2.0
+        "Quota": 1.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T3_SQ_ZRH",
+        "DTerm": "T3",
+        "Dest": "ZRH",
+        "AirlineCode": "SQ",
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1686,11 +2109,20 @@
     {
         "Year": "2023",
         "Month": "08",
+        "quota_id": "T3_TW_ICN",
+        "DTerm": "T3",
+        "Dest": "ICN",
+        "AirlineCode": "TW",
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
         "quota_id": "T3_UB_RGN",
         "DTerm": "T3",
         "Dest": "RGN",
         "AirlineCode": "UB",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1699,7 +2131,7 @@
         "DTerm": "T3",
         "Dest": "BOM",
         "AirlineCode": "UK",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1708,7 +2140,7 @@
         "DTerm": "T3",
         "Dest": "DEL",
         "AirlineCode": "UK",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1717,7 +2149,7 @@
         "DTerm": "T3",
         "Dest": "PNQ",
         "AirlineCode": "UK",
-        "Quota": 2.0
+        "Quota": 1.0
     },
     {
         "Year": "2023",
@@ -1726,7 +2158,7 @@
         "DTerm": "T3",
         "Dest": "CMB",
         "AirlineCode": "UL",
-        "Quota": 4.0
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1735,7 +2167,7 @@
         "DTerm": "T4",
         "Dest": "BKK",
         "AirlineCode": "3K",
-        "Quota": 12.0
+        "Quota": 10.0
     },
     {
         "Year": "2023",
@@ -1744,7 +2176,7 @@
         "DTerm": "T4",
         "Dest": "CGK",
         "AirlineCode": "3K",
-        "Quota": 10.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -1753,7 +2185,7 @@
         "DTerm": "T4",
         "Dest": "DPS",
         "AirlineCode": "3K",
-        "Quota": 9.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -1762,7 +2194,7 @@
         "DTerm": "T4",
         "Dest": "HAK",
         "AirlineCode": "3K",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1771,7 +2203,7 @@
         "DTerm": "T4",
         "Dest": "HKT",
         "AirlineCode": "3K",
-        "Quota": 8.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1780,7 +2212,7 @@
         "DTerm": "T4",
         "Dest": "KUL",
         "AirlineCode": "3K",
-        "Quota": 15.0
+        "Quota": 13.0
     },
     {
         "Year": "2023",
@@ -1789,7 +2221,7 @@
         "DTerm": "T4",
         "Dest": "MNL",
         "AirlineCode": "3K",
-        "Quota": 9.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -1798,7 +2230,7 @@
         "DTerm": "T4",
         "Dest": "PEN",
         "AirlineCode": "3K",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1807,7 +2239,7 @@
         "DTerm": "T4",
         "Dest": "PNH",
         "AirlineCode": "3K",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1816,7 +2248,16 @@
         "DTerm": "T4",
         "Dest": "SUB",
         "AirlineCode": "3K",
-        "Quota": 5.0
+        "Quota": 4.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T4_5J_CEB",
+        "DTerm": "T4",
+        "Dest": "CEB",
+        "AirlineCode": "5J",
+        "Quota": 3.0
     },
     {
         "Year": "2023",
@@ -1834,7 +2275,16 @@
         "DTerm": "T4",
         "Dest": "MNL",
         "AirlineCode": "5J",
-        "Quota": 12.0
+        "Quota": 18.0
+    },
+    {
+        "Year": "2023",
+        "Month": "08",
+        "quota_id": "T4_7C_PUS",
+        "DTerm": "T4",
+        "Dest": "PUS",
+        "AirlineCode": "7C",
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1843,7 +2293,7 @@
         "DTerm": "T4",
         "Dest": "BKI",
         "AirlineCode": "AK",
-        "Quota": 7.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -1852,7 +2302,7 @@
         "DTerm": "T4",
         "Dest": "IPH",
         "AirlineCode": "AK",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1861,7 +2311,7 @@
         "DTerm": "T4",
         "Dest": "KCH",
         "AirlineCode": "AK",
-        "Quota": 8.0
+        "Quota": 7.0
     },
     {
         "Year": "2023",
@@ -1870,7 +2320,7 @@
         "DTerm": "T4",
         "Dest": "KUL",
         "AirlineCode": "AK",
-        "Quota": 49.0
+        "Quota": 46.0
     },
     {
         "Year": "2023",
@@ -1879,7 +2329,7 @@
         "DTerm": "T4",
         "Dest": "LGK",
         "AirlineCode": "AK",
-        "Quota": 7.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -1888,7 +2338,7 @@
         "DTerm": "T4",
         "Dest": "MYY",
         "AirlineCode": "AK",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1897,7 +2347,7 @@
         "DTerm": "T4",
         "Dest": "PEN",
         "AirlineCode": "AK",
-        "Quota": 19.0
+        "Quota": 20.0
     },
     {
         "Year": "2023",
@@ -1906,7 +2356,7 @@
         "DTerm": "T4",
         "Dest": "SBW",
         "AirlineCode": "AK",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1915,7 +2365,7 @@
         "DTerm": "T4",
         "Dest": "SGN",
         "AirlineCode": "BL",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1924,7 +2374,7 @@
         "DTerm": "T4",
         "Dest": "HKG",
         "AirlineCode": "CX",
-        "Quota": 37.0
+        "Quota": 39.0
     },
     {
         "Year": "2023",
@@ -1933,7 +2383,7 @@
         "DTerm": "T4",
         "Dest": "CNX",
         "AirlineCode": "FD",
-        "Quota": 3.0
+        "Quota": 2.0
     },
     {
         "Year": "2023",
@@ -1942,7 +2392,7 @@
         "DTerm": "T4",
         "Dest": "DMK",
         "AirlineCode": "FD",
-        "Quota": 20.0
+        "Quota": 21.0
     },
     {
         "Year": "2023",
@@ -1951,7 +2401,7 @@
         "DTerm": "T4",
         "Dest": "HKT",
         "AirlineCode": "FD",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -1960,7 +2410,7 @@
         "DTerm": "T4",
         "Dest": "PVG",
         "AirlineCode": "HO",
-        "Quota": 4.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -1978,7 +2428,7 @@
         "DTerm": "T4",
         "Dest": "MEL",
         "AirlineCode": "JQ",
-        "Quota": 8.0
+        "Quota": 6.0
     },
     {
         "Year": "2023",
@@ -1987,7 +2437,7 @@
         "DTerm": "T4",
         "Dest": "ICN",
         "AirlineCode": "KE",
-        "Quota": 7.0
+        "Quota": 20.0
     },
     {
         "Year": "2023",
@@ -1996,7 +2446,7 @@
         "DTerm": "T4",
         "Dest": "SGN",
         "AirlineCode": "QH",
-        "Quota": 6.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -2005,7 +2455,7 @@
         "DTerm": "T4",
         "Dest": "CGK",
         "AirlineCode": "QZ",
-        "Quota": 19.0
+        "Quota": 24.0
     },
     {
         "Year": "2023",
@@ -2014,7 +2464,7 @@
         "DTerm": "T4",
         "Dest": "DPS",
         "AirlineCode": "QZ",
-        "Quota": 23.0
+        "Quota": 20.0
     },
     {
         "Year": "2023",
@@ -2032,7 +2482,7 @@
         "DTerm": "T4",
         "Dest": "YIA",
         "AirlineCode": "QZ",
-        "Quota": 5.0
+        "Quota": 4.0
     },
     {
         "Year": "2023",
@@ -2041,7 +2491,7 @@
         "DTerm": "T4",
         "Dest": "DAD",
         "AirlineCode": "VJ",
-        "Quota": 11.0
+        "Quota": 9.0
     },
     {
         "Year": "2023",
@@ -2050,7 +2500,7 @@
         "DTerm": "T4",
         "Dest": "HAN",
         "AirlineCode": "VJ",
-        "Quota": 6.0
+        "Quota": 5.0
     },
     {
         "Year": "2023",
@@ -2059,7 +2509,7 @@
         "DTerm": "T4",
         "Dest": "SGN",
         "AirlineCode": "VJ",
-        "Quota": 12.0
+        "Quota": 10.0
     },
     {
         "Year": "2023",
@@ -2068,7 +2518,7 @@
         "DTerm": "T4",
         "Dest": "HAN",
         "AirlineCode": "VN",
-        "Quota": 10.0
+        "Quota": 8.0
     },
     {
         "Year": "2023",
@@ -2077,7 +2527,7 @@
         "DTerm": "T4",
         "Dest": "SGN",
         "AirlineCode": "VN",
-        "Quota": 14.0
+        "Quota": 12.0
     },
     {
         "Year": "2023",
@@ -2086,7 +2536,7 @@
         "DTerm": "T4",
         "Dest": "BKK",
         "AirlineCode": "VZ",
-        "Quota": 9.0
+        "Quota": 8.0
     }
 ]    
 
