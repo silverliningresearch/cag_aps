@@ -146,7 +146,7 @@ function prepareInterviewData() {
   for (i = 0; i < interview_data_temp.length; i++) {
     var interview = interview_data_temp[i];
     //only get complete interview & not test
-    if (1  //(isCurrentMonth(interview.InterviewEndDate)
+    if (isCurrentMonth(interview.InterviewDate)
     )
     {
       var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
@@ -209,7 +209,7 @@ function prepareInterviewData() {
     }
   }
 
-  console.log("quota_data: ", quota_data);
-  console.log("today_flight_list: ", today_flight_list);
-  console.log("interview_data: ", interview_data);
+  //console.log("quota_data: ", quota_data);
+  //console.log("today_flight_list: ", today_flight_list);
+  //console.log("interview_data: ", interview_data);
 }

@@ -9,7 +9,7 @@ function CalculateAirportAirLineReport() {
   
   total_completed = 0;
   total_quota_completed = 0;
-
+  total_not_in_quota_list_completed = 0;
   //check what not belong to quota data
   var found_temp = 0;
   var not_in_quota_list =[];
@@ -24,9 +24,14 @@ function CalculateAirportAirLineReport() {
         found_temp = 1;
       }
     }
-    if (found_temp==0) not_in_quota_list.push(interview_data[i]);
+    if (found_temp==0) 
+    {
+      not_in_quota_list.push(interview_data[i]);
+      total_not_in_quota_list_completed = total_not_in_quota_list_completed + + parseInt(interview_data[i].Completed_of_interviews);
+    }
   }
   console.log("not_in_quota_list: ", not_in_quota_list);
+  console.log("total_not_in_quota_list_completed: ", total_not_in_quota_list_completed);
 
   for (i = 0; i < quota_data.length; i++) {
     row = quota_data[i];
@@ -208,5 +213,4 @@ function CalculateLessFlights() {
       }
     }
   }
-  //console.log("less_than_2_flights_list: ", less_than_2_flights_list);
 }
