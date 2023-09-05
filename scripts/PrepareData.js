@@ -77,7 +77,7 @@ function isCurrentMonth(interviewEndDate)
 // Input: "2023-04-03 10:06:22 GMT"
   var interviewDateParsed = interviewEndDate.split("-")
 
-  var interviewYear = (interviewDateParsed[0]);
+  var interviewYear = (interviewDateParsed[2]);
   var interviewMonth =(interviewDateParsed[1]);
   
   var result = false;
@@ -146,8 +146,8 @@ function prepareInterviewData() {
   for (i = 0; i < interview_data_temp.length; i++) {
     var interview = interview_data_temp[i];
     //only get complete interview & not test
-    if (isCurrentMonth(interview.InterviewDate)
-    )
+
+    if (isCurrentMonth(interview.InterviewDate))
     {
       var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
       var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewDate"]+ '", ' ;
@@ -211,5 +211,5 @@ function prepareInterviewData() {
 
   //console.log("quota_data: ", quota_data);
   //console.log("today_flight_list: ", today_flight_list);
-  //console.log("interview_data: ", interview_data);
+  //console.log("interview_data_temp: ", interview_data_temp);
 }

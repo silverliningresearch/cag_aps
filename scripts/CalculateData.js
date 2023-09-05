@@ -39,7 +39,7 @@ function CalculateAirportAirLineReport() {
     for (j = 0; j < interview_data.length; j++) {
       if (row.quota_id.toUpperCase() == interview_data[j].quota_id.toUpperCase()) 
       { 
-        row.Completed = row.Completed + parseInt(interview_data[i].Completed_of_interviews);
+        row.Completed = row.Completed + parseInt(interview_data[j].Completed_of_interviews);
       }
     }
 
