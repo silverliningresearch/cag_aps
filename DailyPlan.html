@@ -45,8 +45,8 @@
         data.addColumn('string', 'DOOP');
         data.addColumn('number', 'Remaining Flights');
         data.addColumn('number', 'Quota');
-        data.addColumn('number', 'Completed');
 				data.addColumn('number', 'Missing');
+        data.addColumn('number', 'Completed');
         data.addColumn('number', 'Completed %');
         data.addColumn('number', 'Priority Score');
         data.addColumn('number', 'Priority');
@@ -61,7 +61,9 @@
               row.Time, 
               //row.Airline + "-" + row.Dest,  
               row.doop, 
-              Number(row.remaining_flights), Number(row.Quota), Number(row.Completed), Number(row.Difference), 
+              Number(row.remaining_flights), Number(row.Quota), 
+              Number(row.Difference), 
+              Number(row.Completed), 
               Number(row.Completed_percent), 
               Number(row.Prioritisation_score), 
               Number(row.Priority)]]);
