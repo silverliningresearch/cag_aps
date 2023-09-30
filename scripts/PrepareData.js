@@ -120,7 +120,7 @@ function isvalid_id(id)
   return valid;
 }
 function prepareInterviewData() {
-  quota_data_temp = JSON.parse(quota_info);
+  var quota_data_temp = JSON.parse(quota_info);
   removed_ids_data = JSON.parse(removed_ids);
 
   var interview_data_temp  = JSON.parse(interview_statistics);
@@ -133,7 +133,7 @@ function prepareInterviewData() {
   quota_data.length = 0;
   for (i = 0; i < quota_data_temp.length; i++) {
     var quota_month =  quota_data_temp[i].Month + "-"  + quota_data_temp[i].Year; 
-    if (quota_month== currentMonth)
+    if ((quota_month == currentMonth) && (quota_data_temp[i].Quota>0))
     {
       quota_data.push(quota_data_temp[i]);
     }

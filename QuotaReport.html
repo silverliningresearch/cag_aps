@@ -126,7 +126,8 @@
         var overall_status = "Total quota: " + total_quota;
         overall_status += " - Total completed: " + total_completed;
         overall_status += " - In quota list completed: " + total_quota_completed;
-        overall_status += " (" + total_completed_percent + "%)";
+        overall_status += " (" + total_completed_percent + "%)" + "<br> <br>";
+        overall_status += "T1: " + T1_completed + " | " + "T2: " + T2_completed + " | " + "T3: " + T3_completed + " | " + "T4: " + T4_completed;
         document.getElementById("overall_status").innerHTML = overall_status;
       }
     </script>
@@ -142,7 +143,6 @@
         <option value="current-month">current month
           <option value="10-2023">10-2023          
           <option value="09-2023">09-2023
-          <option value="08-2023">08-2023
         </select>
     </div>
     <br>

@@ -8,7 +8,13 @@ function CalculateAirportAirLineReport() {
   daily_plan_data_temp.length = 0;
   
   total_completed = 0;
+
   total_quota_completed = 0;
+  T1_completed = 0;
+  T2_completed = 0;
+  T3_completed = 0;
+  T4_completed = 0;
+
   total_not_in_quota_list_completed = 0;
   //check what not belong to quota data
   var found_temp = 0;
@@ -58,6 +64,11 @@ function CalculateAirportAirLineReport() {
       }
     }
 
+    if (row.DTerm == "T1") T1_completed = T1_completed + row.Completed;
+    if (row.DTerm == "T2") T2_completed = T2_completed + row.Completed;
+    if (row.DTerm == "T3") T3_completed = T3_completed + row.Completed;
+    if (row.DTerm == "T4") T4_completed = T4_completed + row.Completed;
+    
   }
 
   for (i = 0; i < daily_plan_data.length; i++) {//Flight_To_report.length;
