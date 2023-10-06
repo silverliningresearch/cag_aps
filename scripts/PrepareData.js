@@ -25,6 +25,18 @@ var total_hard_quota;
 var less_than_2_flights_list;
 var less_than_6_flights_list;
 /************************************/
+
+function clean_data ()
+{
+  for (i = 0; i<interview_data.length; i++ )
+  {
+    if (interview_data[i].InterviewEndDate.substring(3,10) == "10-2023") {
+      if ( interview_data[i].quota_id == "T2_TR_BKK") interview_data[i].quota_id = "T1_TR_BKK";
+      if ( interview_data[i].quota_id == "T3_TR_LGK") interview_data[i].quota_id = "T1_TR_LGK";
+      
+    }  
+  }
+}
 /************************************/
 function initCurrentTimeVars() {
   var today = new Date();
@@ -160,6 +172,7 @@ function prepareInterviewData() {
       var Completed_of_interviews = '"Completed_of_interviews"' + ":" + '"' +  interview["Number of interviews"] ;
       var str = '{' + quota_id + InterviewEndDate + Completed_of_interviews + '"}';
       interview_data.push(JSON.parse(str));
+      clean_data();
     }
   }
 
