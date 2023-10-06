@@ -14,6 +14,10 @@ var download_time;
 var total_quota = 3666;
 var total_completed;
 var total_completed_percent;
+var T1_completed;
+var T2_completed;
+var T3_completed;
+var T4_completed;
 
 var total_quota_completed;
 var total_hard_quota;
