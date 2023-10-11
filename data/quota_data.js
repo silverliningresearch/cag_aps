@@ -5085,7 +5085,7 @@
         "DTerm": "T1",
         "Dest": "MAA",
         "AirlineCode": "6E",
-        "Quota": 2
+        "Quota": 0
     },
     {
         "Year": 2023,
@@ -5940,7 +5940,7 @@
         "DTerm": "T2",
         "Dest": "MAA",
         "AirlineCode": "6E",
-        "Quota": 3
+        "Quota": 5
     },
     {
         "Year": 2023,
