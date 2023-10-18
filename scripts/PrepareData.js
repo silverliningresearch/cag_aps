@@ -33,6 +33,9 @@ function clean_data ()
     if (interview_data[i].InterviewEndDate.substring(3,10) == "10-2023") {
       if ( interview_data[i].quota_id == "T2_TR_BKK") interview_data[i].quota_id = "T1_TR_BKK";
       if ( interview_data[i].quota_id == "T3_TR_LGK") interview_data[i].quota_id = "T1_TR_LGK";
+
+      if ( interview_data[i].quota_id == "T2_TR_CJB") interview_data[i].quota_id = "T1_TR_CJB"; //2 cases
+      if ( interview_data[i].quota_id == "T2_TR_DPS") interview_data[i].quota_id = "T1_TR_DPS"; //3 cases
       
     }  
   }
