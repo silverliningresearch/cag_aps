@@ -206,7 +206,7 @@ function prepareInterviewData() {
     
     //only get (today || tomorrow) & not departed flight
     if (((currentDate == flight.Date) && notDeparted(flight.Time))
-        //|| (nextDate == flight.Date)
+        || (nextDate == flight.Date)
         )
     { 
       today_flight_list.push(flight);
