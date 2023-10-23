@@ -36,6 +36,8 @@ function clean_data ()
 
       if ( interview_data[i].quota_id == "T2_TR_CJB") interview_data[i].quota_id = "T1_TR_CJB"; //2 cases
       if ( interview_data[i].quota_id == "T2_TR_DPS") interview_data[i].quota_id = "T1_TR_DPS"; //3 cases
+     
+      if ( interview_data[i].quota_id == "T2_TR_NRT") interview_data[i].quota_id = "T1_TR_NRT"; //4 cases
       
     }  
   }
