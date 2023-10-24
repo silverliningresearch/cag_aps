@@ -6183,7 +6183,7 @@
         "DTerm": "T2",
         "Dest": "KTM",
         "AirlineCode": "SQ",
-        "Quota": 2
+        "Quota": 5
     },
     {
         "Year": 2023,
@@ -6201,7 +6201,7 @@
         "DTerm": "T2",
         "Dest": "MLE",
         "AirlineCode": "SQ",
-        "Quota": 3
+        "Quota": 5
     },
     {
         "Year": 2023,
@@ -6696,7 +6696,7 @@
         "DTerm": "T3",
         "Dest": "KTM",
         "AirlineCode": "SQ",
-        "Quota": 3
+        "Quota": 0
     },
     {
         "Year": 2023,
@@ -6741,7 +6741,7 @@
         "DTerm": "T3",
         "Dest": "MLE",
         "AirlineCode": "SQ",
-        "Quota": 3
+        "Quota": 0
     },
     {
         "Year": 2023,
