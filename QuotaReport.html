@@ -60,7 +60,7 @@
         data.addColumn('string', 'Terminal');
         data.addColumn('string', 'Airline-Airport');
         data.addColumn('string', 'DOOP [Mon-Sun]');
-        data.addColumn('number', 'Remaining Flights');
+        //data.addColumn('number', 'Remaining Flights');
         data.addColumn('number', 'Quota');
 				data.addColumn('number', 'Missing');
         data.addColumn('number', 'Completed');
@@ -74,7 +74,7 @@
             row.DTerm,
             row.AirlineCode + "-" + row.Dest, 
             row.doop,
-            Number(row.remaining_flights),
+            //Number(row.remaining_flights),
             Number(row.Quota),
             Number(row.Difference), 
             Number(row.Completed), 
