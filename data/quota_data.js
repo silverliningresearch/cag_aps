@@ -6228,7 +6228,7 @@
         "DTerm": "T2",
         "Dest": "PNH",
         "AirlineCode": "SQ",
-        "Quota": 4
+        "Quota": 6
     },
     {
         "Year": 2023,
@@ -6282,7 +6282,7 @@
         "DTerm": "T2",
         "Dest": "PNH",
         "AirlineCode": "ZA",
-        "Quota": 2
+        "Quota": 0
     },
     {
         "Year": 2023,
