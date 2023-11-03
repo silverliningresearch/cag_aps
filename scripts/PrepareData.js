@@ -82,10 +82,9 @@ function initCurrentTimeVars() {
       case "08-2023":
       total_quota = 1400;
       break;      
-    case "09-2023":      
-      total_quota = 1400;
-      break;    
+    case "09-2023": 
     case "10-2023":      
+    case "11-2023":          
       total_quota = 1400;
       break;      
                     
