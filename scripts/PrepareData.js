@@ -44,6 +44,14 @@ function clean_data ()
     if (interview_data[i].InterviewEndDate.substring(3,10) == "11-2023") {
       if ( interview_data[i].quota_id == "T2_TR_KIX") interview_data[i].quota_id = "T1_TR_KIX"; //4 cases
       if ( interview_data[i].quota_id == "T2_TR_MDC") interview_data[i].quota_id = "T1_TR_MDC"; //3 cases
+
+      if ( interview_data[i].quota_id == "T3_TR_MNL") interview_data[i].quota_id = "T1_TR_MNL"; //6 cases
+      if ( interview_data[i].quota_id == "T2_TR_PER") interview_data[i].quota_id = "T1_TR_PER"; //4 cases
+      if ( interview_data[i].quota_id == "T2_TR_TPE") interview_data[i].quota_id = "T1_TR_TPE"; //4 cases
+      if ( interview_data[i].quota_id == "T2_TR_ICN") interview_data[i].quota_id = "T1_TR_ICN"; //3 cases
+      if ( interview_data[i].quota_id == "T2_TR_SUB") interview_data[i].quota_id = "T1_TR_SUB"; //2 cases
+      
+
     }
   }
 }
