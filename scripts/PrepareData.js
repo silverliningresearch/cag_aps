@@ -50,6 +50,8 @@ function clean_data ()
       if ( interview_data[i].quota_id == "T2_TR_TPE") interview_data[i].quota_id = "T1_TR_TPE"; //4 cases
       if ( interview_data[i].quota_id == "T2_TR_ICN") interview_data[i].quota_id = "T1_TR_ICN"; //3 cases
       if ( interview_data[i].quota_id == "T2_TR_SUB") interview_data[i].quota_id = "T1_TR_SUB"; //2 cases
+
+      if ( interview_data[i].quota_id == "T1_SQ_BNE") interview_data[i].quota_id = "T3_SQ_BNE"; //4 cases
       
 
     }
