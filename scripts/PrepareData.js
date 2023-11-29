@@ -19,6 +19,8 @@ var T2_completed;
 var T3_completed;
 var T4_completed;
 
+var T2_quota = 400;
+
 var total_quota_completed;
 var total_hard_quota;
 
@@ -104,10 +106,12 @@ function initCurrentTimeVars() {
     case "10-2023":      
     case "11-2023":          
       total_quota = 1400;
+      T2_quota = 200;
       break;      
                     
     default:
       total_quota = 1600;
+      T2_quota = 400;
       break;
   }
 }

@@ -127,7 +127,7 @@
         overall_status += " - Total completed: " + total_completed;
         overall_status += " - In quota list completed: " + total_quota_completed;
         overall_status += " (" + total_completed_percent + "%)" + "<br> <br>";
-        overall_status += "T1: " + T1_completed + " (quota: 400)" + " | " + "T2: " + T2_completed  + " (quota: 200)" + " | " + "T3: " + T3_completed +  " (quota: 400)" + " | " + "T4: " + T4_completed  + " (quota: 400)";
+        overall_status += "T1: " + T1_completed + " (quota: 400)" + " | " + "T2: " + T2_completed  + " (quota: " + T2_quota + ")" + " | " + "T3: " + T3_completed +  " (quota: 400)" + " | " + "T4: " + T4_completed  + " (quota: 400)";
         document.getElementById("overall_status").innerHTML = overall_status;
       }
     </script>
@@ -141,6 +141,7 @@
       <label for="year_month">Data collection period:</label>
       <select id="year_month" onchange="drawTable()">
         <option value="current-month">current month
+          <option value="12-2023">12-2023                              
           <option value="11-2023">11-2023                    
           <option value="10-2023">10-2023          
           <option value="09-2023">09-2023
