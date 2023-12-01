@@ -200,9 +200,9 @@ function prepareInterviewData() {
       var Completed_of_interviews = '"Completed_of_interviews"' + ":" + '"' +  interview["Number of interviews"] ;
       var str = '{' + quota_id + InterviewEndDate + Completed_of_interviews + '"}';
       interview_data.push(JSON.parse(str));
-      clean_data();
     }
   }
+  clean_data();
 
   //prepare flight list
   //empty the list
