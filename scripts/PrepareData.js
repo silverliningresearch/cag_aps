@@ -59,6 +59,7 @@ function clean_data ()
 
       if ( interview_data[i].quota_id == "T2_TR_SYD") interview_data[i].quota_id = "T1_TR_SYD"; //6 cases
 
+      if ( interview_data[i].quota_id == "T2_TR_HDY") interview_data[i].quota_id = "T1_TR_HDY"; //3 cases
     }
   }
 }
@@ -190,8 +191,9 @@ function prepareInterviewData() {
   for (i = 0; i < interview_data_temp.length; i++) {
     var interview = interview_data_temp[i];
     //only get complete interview & not test
-
-    if (isCurrentMonth(interview.InterviewDate))
+    if ((isCurrentMonth(interview.InterviewDate))
+        //&& (interview.interviewerID != "999")
+    )
     {
       var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
       var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewDate"]+ '", ' ;
@@ -254,7 +256,7 @@ function prepareInterviewData() {
     }
   }
 
-  //console.log("quota_data: ", quota_data);
+  console.log("quota_data: ", quota_data);
   //console.log("today_flight_list: ", today_flight_list);
-  //console.log("interview_data_temp: ", interview_data_temp);
+  console.log("interview_data: ", interview_data);
 }
