@@ -256,7 +256,7 @@ function prepareInterviewData() {
     }
   }
 
-  console.log("quota_data: ", quota_data);
+  //console.log("quota_data: ", quota_data);
   //console.log("today_flight_list: ", today_flight_list);
-  console.log("interview_data: ", interview_data);
+  //console.log("interview_data: ", interview_data);
 }
