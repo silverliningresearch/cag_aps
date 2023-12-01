@@ -192,7 +192,7 @@ function prepareInterviewData() {
     var interview = interview_data_temp[i];
     //only get complete interview & not test
     if ((isCurrentMonth(interview.InterviewDate))
-        //&& (interview.interviewerID != "999")
+        && (interview.interviewerID != "999")
     )
     {
       var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
