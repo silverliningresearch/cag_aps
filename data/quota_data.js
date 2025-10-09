@@ -17499,7 +17499,7 @@
 
 
 
-      {
+        {
         "Year": "2025",
         "Month": "10",
         "quota_id": "T1_AF_CDG",
@@ -19405,7 +19405,7 @@
         "DTerm": "T4",
         "Dest": "MNL",
         "AirlineCode": "5J",
-        "Quota": 18
+        "Quota": 19
     },
     {
         "Year": "2025",
@@ -19414,7 +19414,7 @@
         "DTerm": "T4",
         "Dest": "DIL",
         "AirlineCode": "8G",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Year": "2025",
@@ -19432,7 +19432,7 @@
         "DTerm": "T4",
         "Dest": "BKI",
         "AirlineCode": "AK",
-        "Quota": 8
+        "Quota": 9
     },
     {
         "Year": "2025",
@@ -19441,7 +19441,7 @@
         "DTerm": "T4",
         "Dest": "KCH",
         "AirlineCode": "AK",
-        "Quota": 9
+        "Quota": 10
     },
     {
         "Year": "2025",
@@ -19450,7 +19450,7 @@
         "DTerm": "T4",
         "Dest": "KUL",
         "AirlineCode": "AK",
-        "Quota": 64
+        "Quota": 70
     },
     {
         "Year": "2025",
@@ -19468,7 +19468,7 @@
         "DTerm": "T4",
         "Dest": "PEN",
         "AirlineCode": "AK",
-        "Quota": 17
+        "Quota": 19
     },
     {
         "Year": "2025",
@@ -19477,7 +19477,7 @@
         "DTerm": "T4",
         "Dest": "HKG",
         "AirlineCode": "CX",
-        "Quota": 66
+        "Quota": 71
     },
     {
         "Year": "2025",
@@ -19486,7 +19486,7 @@
         "DTerm": "T4",
         "Dest": "DMK",
         "AirlineCode": "FD",
-        "Quota": 16
+        "Quota": 18
     },
     {
         "Year": "2025",
@@ -19495,7 +19495,7 @@
         "DTerm": "T4",
         "Dest": "DYG",
         "AirlineCode": "GJ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Year": "2025",
@@ -19504,7 +19504,7 @@
         "DTerm": "T4",
         "Dest": "WNZ",
         "AirlineCode": "GJ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Year": "2025",
@@ -19513,7 +19513,7 @@
         "DTerm": "T4",
         "Dest": "PVG",
         "AirlineCode": "HO",
-        "Quota": 18
+        "Quota": 19
     },
     {
         "Year": "2025",
@@ -19522,7 +19522,7 @@
         "DTerm": "T4",
         "Dest": "CKG",
         "AirlineCode": "HU",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Year": "2025",
@@ -19531,34 +19531,7 @@
         "DTerm": "T4",
         "Dest": "HAK",
         "AirlineCode": "HU",
-        "Quota": 14
-    },
-    {
-        "Year": "2025",
-        "Month": "10",
-        "quota_id": "T4_ID_CGK",
-        "DTerm": "T4",
-        "Dest": "CGK",
-        "AirlineCode": "ID",
-        "Quota": 6
-    },
-    {
-        "Year": "2025",
-        "Month": "10",
-        "quota_id": "T4_ID_DPS",
-        "DTerm": "T4",
-        "Dest": "DPS",
-        "AirlineCode": "ID",
-        "Quota": 4
-    },
-    {
-        "Year": "2025",
-        "Month": "10",
-        "quota_id": "T4_ID_KNO",
-        "DTerm": "T4",
-        "Dest": "KNO",
-        "AirlineCode": "ID",
-        "Quota": 4
+        "Quota": 15
     },
     {
         "Year": "2025",
@@ -19567,7 +19540,7 @@
         "DTerm": "T4",
         "Dest": "CGK",
         "AirlineCode": "IP",
-        "Quota": 6
+        "Quota": 5
     },
     {
         "Year": "2025",
@@ -19585,7 +19558,7 @@
         "DTerm": "T4",
         "Dest": "MEL",
         "AirlineCode": "JQ",
-        "Quota": 8
+        "Quota": 9
     },
     {
         "Year": "2025",
@@ -19603,16 +19576,7 @@
         "DTerm": "T4",
         "Dest": "ICN",
         "AirlineCode": "KE",
-        "Quota": 26
-    },
-    {
-        "Year": "2025",
-        "Month": "10",
-        "quota_id": "T4_OD_KUL",
-        "DTerm": "T4",
-        "Dest": "KUL",
-        "AirlineCode": "OD",
-        "Quota": 4
+        "Quota": 29
     },
     {
         "Year": "2025",
@@ -19630,7 +19594,7 @@
         "DTerm": "T4",
         "Dest": "CGK",
         "AirlineCode": "QZ",
-        "Quota": 16
+        "Quota": 17
     },
     {
         "Year": "2025",
@@ -19639,16 +19603,7 @@
         "DTerm": "T4",
         "Dest": "DPS",
         "AirlineCode": "QZ",
-        "Quota": 9
-    },
-    {
-        "Year": "2025",
-        "Month": "10",
-        "quota_id": "T4_SL_DMK",
-        "DTerm": "T4",
-        "Dest": "DMK",
-        "AirlineCode": "SL",
-        "Quota": 4
+        "Quota": 10
     },
     {
         "Year": "2025",
@@ -19666,7 +19621,7 @@
         "DTerm": "T4",
         "Dest": "HAN",
         "AirlineCode": "VJ",
-        "Quota": 6
+        "Quota": 7
     },
     {
         "Year": "2025",
@@ -19675,7 +19630,7 @@
         "DTerm": "T4",
         "Dest": "PQC",
         "AirlineCode": "VJ",
-        "Quota": 4
+        "Quota": 3
     },
     {
         "Year": "2025",
@@ -19684,7 +19639,7 @@
         "DTerm": "T4",
         "Dest": "SGN",
         "AirlineCode": "VJ",
-        "Quota": 18
+        "Quota": 19
     }
 
 ]    
