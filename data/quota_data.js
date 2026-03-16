@@ -4299,7 +4299,7 @@
     },
 
 
-{
+     {
         "Year": "2026",
         "Month": "03",
         "quota_id": "T1_AF_CDG",
@@ -4342,7 +4342,7 @@
         "DTerm": "T1",
         "Dest": "PEK",
         "AirlineCode": "CA",
-        "Quota": 8
+        "Quota": 9
     },
     {
         "Year": "2026",
@@ -4369,7 +4369,7 @@
         "DTerm": "T1",
         "Dest": "CAN",
         "AirlineCode": "CZ",
-        "Quota": 8
+        "Quota": 9
     },
     {
         "Year": "2026",
@@ -4378,24 +4378,6 @@
         "DTerm": "T1",
         "Dest": "SZX",
         "AirlineCode": "CZ",
-        "Quota": 4
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
-        "quota_id": "T1_EK_DXB",
-        "DTerm": "T1",
-        "Dest": "DXB",
-        "AirlineCode": "EK",
-        "Quota": 17
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
-        "quota_id": "T1_EK_KTI",
-        "DTerm": "T1",
-        "Dest": "KTI",
-        "AirlineCode": "EK",
         "Quota": 4
     },
     {
@@ -4432,7 +4414,7 @@
         "DTerm": "T1",
         "Dest": "DPS",
         "AirlineCode": "KL",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4441,7 +4423,7 @@
         "DTerm": "T1",
         "Dest": "FOC",
         "AirlineCode": "MF",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4450,7 +4432,7 @@
         "DTerm": "T1",
         "Dest": "HGH",
         "AirlineCode": "MF",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4459,7 +4441,7 @@
         "DTerm": "T1",
         "Dest": "JJN",
         "AirlineCode": "MF",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4477,7 +4459,7 @@
         "DTerm": "T1",
         "Dest": "CKG",
         "AirlineCode": "OQ",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4495,7 +4477,7 @@
         "DTerm": "T1",
         "Dest": "POM",
         "AirlineCode": "PX",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4522,7 +4504,7 @@
         "DTerm": "T1",
         "Dest": "MEL",
         "AirlineCode": "QF",
-        "Quota": 5
+        "Quota": 6
     },
     {
         "Year": "2026",
@@ -4540,16 +4522,7 @@
         "DTerm": "T1",
         "Dest": "SYD",
         "AirlineCode": "QF",
-        "Quota": 8
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
-        "quota_id": "T1_QR_DOH",
-        "DTerm": "T1",
-        "Dest": "DOH",
-        "AirlineCode": "QR",
-        "Quota": 10
+        "Quota": 9
     },
     {
         "Year": "2026",
@@ -4558,7 +4531,7 @@
         "DTerm": "T1",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "Quota": 6
+        "Quota": 7
     },
     {
         "Year": "2026",
@@ -4585,7 +4558,7 @@
         "DTerm": "T1",
         "Dest": "BKK",
         "AirlineCode": "TR",
-        "Quota": 18
+        "Quota": 20
     },
     {
         "Year": "2026",
@@ -4603,7 +4576,7 @@
         "DTerm": "T1",
         "Dest": "CEB",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4630,7 +4603,7 @@
         "DTerm": "T1",
         "Dest": "CJB",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4657,7 +4630,7 @@
         "DTerm": "T1",
         "Dest": "CRK",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4684,7 +4657,7 @@
         "DTerm": "T1",
         "Dest": "DAD",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4693,7 +4666,7 @@
         "DTerm": "T1",
         "Dest": "DPS",
         "AirlineCode": "TR",
-        "Quota": 10
+        "Quota": 11
     },
     {
         "Year": "2026",
@@ -4747,7 +4720,7 @@
         "DTerm": "T1",
         "Dest": "HKT",
         "AirlineCode": "TR",
-        "Quota": 5
+        "Quota": 6
     },
     {
         "Year": "2026",
@@ -4766,15 +4739,6 @@
         "Dest": "IPH",
         "AirlineCode": "TR",
         "Quota": 5
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
-        "quota_id": "T1_TR_JED",
-        "DTerm": "T1",
-        "Dest": "JED",
-        "AirlineCode": "TR",
-        "Quota": 3
     },
     {
         "Year": "2026",
@@ -4801,7 +4765,7 @@
         "DTerm": "T1",
         "Dest": "KMG",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4810,7 +4774,7 @@
         "DTerm": "T1",
         "Dest": "KNO",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4819,7 +4783,7 @@
         "DTerm": "T1",
         "Dest": "KUL",
         "AirlineCode": "TR",
-        "Quota": 13
+        "Quota": 14
     },
     {
         "Year": "2026",
@@ -4828,7 +4792,7 @@
         "DTerm": "T1",
         "Dest": "LGK",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4837,7 +4801,7 @@
         "DTerm": "T1",
         "Dest": "LOP",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4846,7 +4810,7 @@
         "DTerm": "T1",
         "Dest": "MAA",
         "AirlineCode": "TR",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -4864,7 +4828,7 @@
         "DTerm": "T1",
         "Dest": "MEL",
         "AirlineCode": "TR",
-        "Quota": 5
+        "Quota": 6
     },
     {
         "Year": "2026",
@@ -4882,7 +4846,7 @@
         "DTerm": "T1",
         "Dest": "MNL",
         "AirlineCode": "TR",
-        "Quota": 4
+        "Quota": 5
     },
     {
         "Year": "2026",
@@ -4918,7 +4882,7 @@
         "DTerm": "T1",
         "Dest": "PEN",
         "AirlineCode": "TR",
-        "Quota": 8
+        "Quota": 9
     },
     {
         "Year": "2026",
@@ -4927,7 +4891,7 @@
         "DTerm": "T1",
         "Dest": "PER",
         "AirlineCode": "TR",
-        "Quota": 6
+        "Quota": 7
     },
     {
         "Year": "2026",
@@ -4963,7 +4927,7 @@
         "DTerm": "T1",
         "Dest": "SGN",
         "AirlineCode": "TR",
-        "Quota": 6
+        "Quota": 7
     },
     {
         "Year": "2026",
@@ -4999,7 +4963,7 @@
         "DTerm": "T1",
         "Dest": "SYD",
         "AirlineCode": "TR",
-        "Quota": 7
+        "Quota": 8
     },
     {
         "Year": "2026",
@@ -5017,7 +4981,7 @@
         "DTerm": "T1",
         "Dest": "TPE",
         "AirlineCode": "TR",
-        "Quota": 13
+        "Quota": 15
     },
     {
         "Year": "2026",
@@ -5107,7 +5071,7 @@
         "DTerm": "T1",
         "Dest": "SZX",
         "AirlineCode": "ZH",
-        "Quota": 4
+        "Quota": 5
     },
     {
         "Year": "2026",
@@ -5233,7 +5197,7 @@
         "DTerm": "T2",
         "Dest": "MAA",
         "AirlineCode": "AI",
-        "Quota": 4
+        "Quota": 5
     },
     {
         "Year": "2026",
@@ -5242,7 +5206,7 @@
         "DTerm": "T2",
         "Dest": "BWN",
         "AirlineCode": "BI",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -5252,15 +5216,6 @@
         "Dest": "KUL",
         "AirlineCode": "ET",
         "Quota": 3
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
-        "quota_id": "T2_EY_AUH",
-        "DTerm": "T2",
-        "Dest": "AUH",
-        "AirlineCode": "EY",
-        "Quota": 6
     },
     {
         "Year": "2026",
@@ -5485,7 +5440,7 @@
         "DTerm": "T2",
         "Dest": "KTI",
         "AirlineCode": "SQ",
-        "Quota": 6
+        "Quota": 7
     },
     {
         "Year": "2026",
@@ -5503,7 +5458,7 @@
         "DTerm": "T2",
         "Dest": "KUL",
         "AirlineCode": "SQ",
-        "Quota": 20
+        "Quota": 21
     },
     {
         "Year": "2026",
@@ -5521,7 +5476,7 @@
         "DTerm": "T2",
         "Dest": "MNL",
         "AirlineCode": "SQ",
-        "Quota": 19
+        "Quota": 20
     },
     {
         "Year": "2026",
@@ -5530,7 +5485,7 @@
         "DTerm": "T2",
         "Dest": "PEN",
         "AirlineCode": "SQ",
-        "Quota": 9
+        "Quota": 10
     },
     {
         "Year": "2026",
@@ -5670,15 +5625,6 @@
     {
         "Year": "2026",
         "Month": "03",
-        "quota_id": "T3_GF_BAH",
-        "DTerm": "T3",
-        "Dest": "BAH",
-        "AirlineCode": "GF",
-        "Quota": 4
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
         "quota_id": "T3_MU_HFE",
         "DTerm": "T3",
         "Dest": "HFE",
@@ -5782,7 +5728,7 @@
         "DTerm": "T3",
         "Dest": "AKL",
         "AirlineCode": "SQ",
-        "Quota": 8
+        "Quota": 9
     },
     {
         "Year": "2026",
@@ -5904,15 +5850,6 @@
     {
         "Year": "2026",
         "Month": "03",
-        "quota_id": "T3_SQ_DXB",
-        "DTerm": "T3",
-        "Dest": "DXB",
-        "AirlineCode": "SQ",
-        "Quota": 4
-    },
-    {
-        "Year": "2026",
-        "Month": "03",
         "quota_id": "T3_SQ_FRA",
         "DTerm": "T3",
         "Dest": "FRA",
@@ -5962,7 +5899,7 @@
         "DTerm": "T3",
         "Dest": "LAX",
         "AirlineCode": "SQ",
-        "Quota": 4
+        "Quota": 5
     },
     {
         "Year": "2026",
@@ -5971,7 +5908,7 @@
         "DTerm": "T3",
         "Dest": "LHR",
         "AirlineCode": "SQ",
-        "Quota": 18
+        "Quota": 19
     },
     {
         "Year": "2026",
@@ -6016,7 +5953,7 @@
         "DTerm": "T3",
         "Dest": "PER",
         "AirlineCode": "SQ",
-        "Quota": 16
+        "Quota": 17
     },
     {
         "Year": "2026",
@@ -6061,7 +5998,7 @@
         "DTerm": "T3",
         "Dest": "SZX",
         "AirlineCode": "SQ",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -6070,7 +6007,7 @@
         "DTerm": "T3",
         "Dest": "TFU",
         "AirlineCode": "SQ",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -6088,7 +6025,7 @@
         "DTerm": "T3",
         "Dest": "XMN",
         "AirlineCode": "SQ",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
@@ -6097,7 +6034,7 @@
         "DTerm": "T3",
         "Dest": "DPS",
         "AirlineCode": "SV",
-        "Quota": 3
+        "Quota": 4
     },
     {
         "Year": "2026",
