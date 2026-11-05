@@ -33,7 +33,7 @@
 {"Terminal": "2", "quota_id": "SQ637", "Time": "1630", "Quota": 3},
 {"Terminal": "1", "quota_id": "QF081", "Time": "1700", "Quota": 3},
 {"Terminal": "1", "quota_id": "TR881", "Time": "1730", "Quota": 3},
-{"Terminal": "3", "quota_id": "SQ021", "Time": "1745", "Quota": 3},
+{"Terminal": "3", "quota_id": "SQ21", "Time": "1745", "Quota": 3},
 {"Terminal": "4", "quota_id": "AK717", "Time": "1800", "Quota": 3},
 {"Terminal": "3", "quota_id": "GA836", "Time": "1825", "Quota": 3},
 {"Terminal": "2", "quota_id": "MH613", "Time": "1835", "Quota": 3},
