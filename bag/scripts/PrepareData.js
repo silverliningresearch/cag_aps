@@ -190,10 +190,18 @@ function prepareInterviewData() {
   download_time = interview_data_temp[0].download_time;
   for (i = 0; i < interview_data_temp.length; i++) {
     var interview = interview_data_temp[i];
+    var tmp_month = interview.InterviewDate.substring(3,5);
+    var tmp_day = (interview.InterviewDate.substring(0,2));
+
+
     //only get complete interview & not test
+
     // if ((isCurrentMonth(interview.InterviewDate))
     //     && (interview.interviewerID != "999")
     // )
+    if ((tmp_month == "11") && (tmp_day >= "03")
+        && (interview.interviewerID != "999")
+    )
     {
       var quota_id = '"quota_id"' + ":" + '"' +  interview["quota_id"] + '", ';
       var InterviewEndDate = '"InterviewEndDate"' + ":" + '"' +  interview["InterviewDate"]+ '", ' ;
