@@ -199,7 +199,7 @@ function prepareInterviewData() {
     // if ((isCurrentMonth(interview.InterviewDate))
     //     && (interview.interviewerID != "999")
     // )
-    if ((tmp_month == "11") && (tmp_day >= "03")
+    if ((tmp_month == "11") && (tmp_day >= "11")
         && (interview.interviewerID != "999")
     )
     {
